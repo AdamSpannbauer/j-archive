@@ -1,0 +1,61 @@
+answer,order_number,value,is_daily_double,correct_response,responder,is_correct,category,round_num,episode
+"Among its numerous city squares are Ledise, known for its cafes, & Rembrandt, known for its cabarets",1,200,False,Amsterdam,Todd,True,EUROPEAN CAPITALS,1,4
+"This city’s Superdome has been just super, hosting 6 Super Bowls, more than any other site",27,200,False,New Orleans,Ken,True,PRO FOOTBALL,1,4
+"This desert plant that looks part cactus, part tree bears the name of the man chosen by Moses to be his successor",16,200,False,a Joshua Tree,Ken,True,PLANT THE EVIDENCE,1,4
+"George I’s father was elector of this, hence its turnover into a house name",6,200,False,Hanover,Ken,True,ROYAL HOUSES,1,4
+You’ll find this 4-word motto on all U.S. coins,11,200,False,In God We Trust,Ken,True,THE COIN BOX,1,4
+"In a Sondheim musical, it’s how “We Roll Along”",21,200,False,"""Merrily""",Amy,True,"""M""-BRACE ME",1,4
+In Russian this Lithuanian capital is called Vilna,2,400,False,Vilnius,Ken,True,EUROPEAN CAPITALS,1,4
+"In 1960 Paul Hornung set the NFL season record for scoring with 176 points: he had 15 TFDs, 41 PATs & 15 of these",28,400,False,Field Goals (FGs),Ken,True,PRO FOOTBALL,1,4
+The lantana is valued as a plant for its ability to attract hummingbirds and these flutterers,17,400,False,butterflies,Ken,True,PLANT THE EVIDENCE,1,4
+"This dynasty’s last 3 monarchs, including Mary I, died childless",7,400,False,Tudor,Todd,True,ROYAL HOUSES,1,4
+Sales of the 2000 Leif Ericson millennium coin funded a student exchange between the U.S. & this island country,12,400,False,Iceland,Todd,True,THE COIN BOX,1,4
+1 of these equals 39.97 inches,22,400,False,meter,Ken,True,"""M""-BRACE ME",1,4
+"This city’s best-known thoroughfare is Trakt Krolewski, or Royal Way",3,600,False,Warsaw,Amy,True,EUROPEAN CAPITALS,1,4
+"After 41 seasons in the same city, this NFL team moved to Pontiac, Michigan in 1975",29,600,False,Detroit Lions,Ken,True,PRO FOOTBALL,1,4
+"A genus of herbs was named for this ex-governor Clinton, not Bill",18,600,False,DeWitt Clinton,Ken,True,PLANT THE EVIDENCE,1,4
+"As a member of this house, it sounds like James I could have starred in “Harvey”",8,600,False,Stuart,Ken,True,ROYAL HOUSES,1,4
+On the back of the euro issued by this country you’ll find a Celtic harp,13,600,False,Ireland,Ken,True,THE COIN BOX,1,4
+This place is a tomb: a big one!,23,600,False,mausoleum,Ken,True,"""M""-BRACE ME",1,4
+This capital lies on the Attica Plain surrounded by mountains including Parnes & Hymettus,4,800,False,Athens,Ken,True,EUROPEAN CAPITALS,1,4
+Vince Lombardi has the highest winning percentage of any NFL coach in history: this “MNF” announcer is a close second,26,800,False,John Madden,Ken,True,PRO FOOTBALL,1,4
+"Fenugreek, whose seeds are roasted & ground to make spice, is this type of plant, like peas & beans",19,800,False,Legume,Ken,True,PLANT THE EVIDENCE,1,4
+It could be called the house of Citrus sinensis,9,800,False,Orange,Ken,True,ROYAL HOUSES,1,4
+"For luck on his 1961 space flight, Gus Grissom took along some of these dimes last produced in 1945.",14,"2,100",True,Mercury dimes (or winged liberty dimes),Ken,False,THE COIN BOX,1,4
+"In 1943 Adolf Galland said after his first ride in this German jet, “It felt as if angels were pushing”",24,800,False,Messerschmitt,Ken,True,"""M""-BRACE ME",1,4
+"In the 15th century, Henry the Navigator founded St. Mary’s Chapel in Belem, now a part of this European capital",5,1000,False,Lisbon,Ken,True,EUROPEAN CAPITALS,1,4
+(I’m Hall of Fame running back John Riggins.)  In 1983 I rushed for a then record 24 TDs; the Redskins offensive line who opened holes for me had this nickname,30,1000,False,Hogs,Todd,True,PRO FOOTBALL,1,4
+Most of the oregano sold in the U.S. is made from the dried leaves of this plant,20,1000,False,marjoram,Triple Stumper,False,PLANT THE EVIDENCE,1,4
+This Shakespeare play sounds like it’s about the better halves of George V & George VI,10,1000,False,The Merry Wives of Windsor,Ken,True,ROYAL HOUSES,1,4
+"People are just mad for the Loonie, the nickname for this country’s one-dollar coin",15,1000,False,Canada,Ken,True,THE COIN BOX,1,4
+This state’s university has its main campus in College Park,25,1000,False,Maryland,Todd,True,"""M""-BRACE ME",1,4
+"""Friends, Romans, countrymen, lend me your ear; I must say something you've just got to hear!""",6,400,False,Julius Caesar,Ken,True,"DR. SEUSS MEETS THE BARD, REDUX",2,4
+"(Jimmy of the Clue Crew.) 1980s TV show, 2 words:",16,400,False,Dance Fever,Ken,True,CHARADES,2,4
+"At her husband James' inauguration party in 1813, she served ice cream",1,400,False,Dolley Madison,Ken,True,19th CENTURY WOMEN,2,4
+New York pedestrian traffic signs that used to include this contraction are being replaced by an upheld hand,21,400,False,don\'t,Ken,True,CONTRACTIONS,2,4
+"According to Forbes, this actor who died in a 1955 car crash still managed to earn $5 million in 2003",30,400,False,James Dean,Ken,True,JAMES,2,4
+"Fan,form,poison pen",11,400,False,letters,Ken,True,"BOND, COMMON BOND",2,4
+"""Life's... full of sound and fury, why must we always hurry, hurry, hurry?""",7,800,False,Macbeth,Ken,True,"DR. SEUSS MEETS THE BARD, REDUX",2,4
+"(Sofia of the Clue Crew.)  1986 Meryl Streep movie, one word:",17,800,False,Heartburn,Amy,True,CHARADES,2,4
+"His mother, Marie-Letizia, seen here, had special status as Madame Mare",2,800,False,Napoleon,Ken,True,19th CENTURY WOMEN,2,4
+Contraction in the title of the following,22,800,False,I\'ll,Amy,True,CONTRACTIONS,2,4
+"This captain set out on his third voyage in 1776, one from which he'd never return",29,800,False,James Cook,Ken,True,JAMES,2,4
+"Wing,Brazil,litchi",12,800,False,nuts,Ken,True,"BOND, COMMON BOND",2,4
+"""Once more unto the breach, but first allow me to eat this peach""",8,1200,False,Henry V,Todd,True,"DR. SEUSS MEETS THE BARD, REDUX",2,4
+"(Cheryl of the Clue Crew.)  A James Bond movie, three words:",18,1200,False,Diamonds Are Forever,Todd,True,CHARADES,2,4
+"Known as ""The Peerless Lady Wingshot"", She was with Buffalo Bill's Wild West Show for 17 years",3,1200,False,Annie Oakley,Ken,True,19th CENTURY WOMEN,2,4
+"The American Heritage Dict. says this nonstandard contraction was attacked in the 19th C. ""for being a vulgarism""",23,1200,False,ain\'t,Amy,True,CONTRACTIONS,2,4
+He came up with a copier machine & a clothes dryer as well as a famous engine,28,1200,False,James Watt,Ken,True,JAMES,2,4
+"Lots,gavel,bidders",13,1200,False,auctions,Ken,True,"BOND, COMMON BOND",2,4
+"""Blow, winds, and crack your cheeks!  I haven't been this cold in weeks!""",9,1600,False,King Lear,Ken,True,"DR. SEUSS MEETS THE BARD, REDUX",2,4
+"(Sofia of the Clue Crew.)  An Elton John classic, four words:",19,1600,False,"""Candle In The Wind""",Ken,True,CHARADES,2,4
+"The Atlantic Monthly paid her $5 in 1862 for her ""Hymn""",4,"4,500",True,Julia Ward Howe,Ken,True,19th CENTURY WOMEN,2,4
+"It's the contraction that often begins a toast, like one in ""Casablanca""",24,1600,False,here\'s,Ken,True,CONTRACTIONS,2,4
+"Richard Wright helped this ""Go Tell It On The Mountain"" man win a literary fellowship",27,1600,False,James Baldwin,Ken,True,JAMES,2,4
+"Corsets,collars,executions",14,"5,800",True,things that have stays,Ken,False,"BOND, COMMON BOND",2,4
+"""If you tickle us, do we not laugh?  Let's take a ride on that green giraffe!""",10,2000,False,The Merchant of Venice,Ken,True,"DR. SEUSS MEETS THE BARD, REDUX",2,4
+"(Jimmy of the Clue Crew.)  A 1960 John Updike book, two words:",20,2000,False,"Rabbit, Run",Amy,True,CHARADES,2,4
+"Early on, she was a disciple of Dr. Phineas Quimby & wrote that he ""heals as never man healed since Christ""",5,2000,False,Mary Baker Eddy,Ken,True,19th CENTURY WOMEN,2,4
+"If you're unable, use ""can't"", if you would rather not, use this word that rhymes with ""can't""",25,2000,False,shan\'t,Todd,True,CONTRACTIONS,2,4
+Federalist turned Democrat Chief of State seen here,26,2000,False,James Buchanan,Todd,True,JAMES,2,4
+"Dean Martin,William Clark,Lamb Chop",15,2000,False,partners of someone named Lewis,Ken,True,"BOND, COMMON BOND",2,4

@@ -3,9 +3,7 @@
 import numpy as np
 import pandas as pd
 from bs4 import BeautifulSoup
-from scraper import Scraper
 
-ROBOTS_TXT_URL = 'http://www.j-archive.com/robots.txt'
 HTML_PARSER = 'html.parser'
 
 
@@ -104,25 +102,25 @@ def parse_fj_clue(fj_clue_html):
 
 
 if __name__ == '__main__':
-    PAGE_URL = 'http://www.j-archive.com/showgame.php?game_id='
-    CSV_OUTPUT = 'example_data.csv'
+    import os
+    from scraper import Scraper
 
-    episode_num = 4000
-    TEST_HTML_OUTPUT = 'example_page.html'
-    TEST_PAGE_URL = PAGE_URL + str(episode_num)
+    ROBOTS_TXT_URL = 'http://www.j-archive.com/robots.txt'
+    EPISODE_BASE_URL = 'http://www.j-archive.com/showgame.php?game_id='
+    CSV_OUTPUT_DIR = 'data'
 
-    # Test page scrape.
-    # There's a 20 sec crawl delay so... just use the test page until real scrape time
-    # scraper = Scraper(robots_txt_url=ROBOTS_TXT_URL)
-    # page_html = scraper.get_page(TEST_PAGE_URL)
-    #
-    # with open(TEST_HTML_OUTPUT, 'w') as f:
-    #     f.write(page_html)
+    scraper = Scraper(robots_txt_url=ROBOTS_TXT_URL)
 
-    with open(TEST_HTML_OUTPUT, 'r') as f:
-        page_html = f.read()
+    for episode_num in range(1, 20):
+        print(f'Scraping/parsing episode #{episode_num}')
 
-    soup = BeautifulSoup(page_html, features=HTML_PARSER)
-    episode_df = parse_rounds(soup)
-    episode_df['episode'] = episode_num
-    episode_df.to_csv(CSV_OUTPUT, index=False)
+        episode_url = EPISODE_BASE_URL + str(episode_num)
+        episode_csv = os.path.join(CSV_OUTPUT_DIR, f'episode_{episode_num}.csv')
+
+        page_html = scraper.get_page(episode_url)
+
+        soup = BeautifulSoup(page_html, features=HTML_PARSER)
+        episode_df = parse_rounds(soup)
+        episode_df['episode'] = episode_num
+
+        episode_df.to_csv(episode_csv, index=False)
