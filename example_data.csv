@@ -1,0 +1,61 @@
+answer,order_number,value,is_daily_double,correct_response,responder,is_correct,category,round_num,episode
+The gift shop at this attraction on Cannery Row in Monterey sells a plush blue shark,10,200,False,the Monterey Bay Aquarium,Tori,True,EXIT THROUGH THE GIFT SHOP,1,4000
+Those 2 people are inseparable; think they're joined at the cadera?,5,200,False,the hip,Tori,True,A SPANISH INQUISITION,1,4000
+"Dorothy asks the Great Oz to send her back home to this place, ""where my Aunt Em and Uncle Henry are""",22,200,False,Kansas,Keith,True,THE GREAT & POWERFUL OZ,1,4000
+He was the last president of the Soviet Union,2,200,False,Gorbachev,Meredith,True,MIKHAILS,1,4000
+Students at the Naval Academy have this rank,1,200,False,midshipman,Keith,False,NAVY,1,4000
+"When this game show premiered in 1966, it was Ernest Borgnine, not Paul Lynde, in the center",15,200,False,Hollywood Squares,Meredith,True,REMEMBERING ERNEST BORGNINE,1,4000
+"The California National Park named for these trees related to redwoods sells seeds, so you can grow your own",11,400,False,sequoia,Keith,True,EXIT THROUGH THE GIFT SHOP,1,4000
+May I have just one more piece of platano cream pie?,6,400,False,banana,Keith,True,A SPANISH INQUISITION,1,4000
+,,,,,,,THE GREAT & POWERFUL OZ,1,4000
+Soon after WWII Mikhail Kalashnikov designed the assault rifle known by this alphanumeric name,13,400,False,the AK-47,Keith,True,MIKHAILS,1,4000
+"For Navy personnel, this decoration for heroism is second only to the Medal of Honor",3,400,False,the Navy Cross,Triple Stumper,False,NAVY,1,4000
+In recent years Borgnine was the voice of Mermaid Man on this beloved Nick cartoon,16,400,False,SpongeBob SquarePants,Meredith,True,REMEMBERING ERNEST BORGNINE,1,4000
+The gift shop at this author's home sells a china shepherdess just like the one Ma loved in the books,12,600,False,Laura Ingalls Wilder,Keith,False,EXIT THROUGH THE GIFT SHOP,1,4000
+Did the alguacil physically step in & keep order in the court?,7,600,False,the bailiff,Keith,True,A SPANISH INQUISITION,1,4000
+,,,,,,,THE GREAT & POWERFUL OZ,1,4000
+"In 2005 after disbanding his White Oak Dance Project, he established an arts center in New York City",14,400,True,Baryshnikov,Keith,True,MIKHAILS,1,4000
+"""The only easy day was yesterday"" is the motto of these Navy Special Ops warriors",4,600,False,the SEALs,Keith,True,NAVY,1,4000
+You might say Borgnine really butchered this 1955 film & won a Best Actor Oscar for the effort,17,600,False,Marty,Meredith,True,REMEMBERING ERNEST BORGNINE,1,4000
+Pick up a video at the gift shop of Gaudi's masterpiece La Sagrada Familia in this city in Spain,20,800,False,Barcelona,Tori,True,EXIT THROUGH THE GIFT SHOP,1,4000
+"Do you feel bad for Mike, now that he's a two-time perdedor?",8,800,False,a loser,Keith,True,A SPANISH INQUISITION,1,4000
+"To give the Scarecrow brains, Oz mixed bran with these 2 types of pointy objects, a synonym for a tingly sensation",27,800,False,pins & needles,Meredith,True,THE GREAT & POWERFUL OZ,1,4000
+In 1613 Czar Michael (or Mikhail) started this dynasty that ruled Russia until 1917,23,800,False,Romanov,Keith,True,MIKHAILS,1,4000
+,,,,,,,NAVY,1,4000
+Everything didn't come up roses for Borgnine & this Broadway powerhouse who were married for a month in 1964,18,800,False,Ethel Merman,Meredith,True,REMEMBERING ERNEST BORGNINE,1,4000
+"(Kelly of the Clue Crew delivers the clue from the Louvre in Paris, France.) The Louvre gift shop sells a 1,000-piece puzzle of Veronese's ""The Wedding Feast at"" this village... almost done!",21,1000,False,Cana,Tori,False,EXIT THROUGH THE GIFT SHOP,1,4000
+Do you remember when we were kids going to the zoo to see the oso pit?,9,1000,False,bear,Tori,True,A SPANISH INQUISITION,1,4000
+"Oz is not a wizard, just a common man; the Scarecrow calls him this 6-letter word for a pretender",26,1000,False,humbug,Triple Stumper,False,THE GREAT & POWERFUL OZ,1,4000
+"For most of the 1950s, Mikhail Botvinnik was the world champion of this",24,1000,False,chess,Keith,True,MIKHAILS,1,4000
+"It makes sense that this U.S. Navy fleet is the world's largest, patrolling 100 million square miles",25,1000,False,the Pacific Fleet,Keith,True,NAVY,1,4000
+"After a bar fight, Borgnine threatens Sinatra in a scene from this war flick""Someday when you walk in, I'll be waitin'.  I'll show you a couple of things.""",19,1000,False,From Here to Eternity,Meredith,True,REMEMBERING ERNEST BORGNINE,1,4000
+Harriet Quimby became the first woman to fly across this European body of water,2,400,False,the English Channel,Meredith,True,100 YEARS AGO--1912,2,4000
+"Currently the anchor of ""ABC World News"", she served as America's Junior Miss of 1963",1,400,False,Diane Sawyer,Meredith,True,BEAUTY QUEENS,2,4000
+"""The Land of the Tulip""",7,400,False,the Netherlands,Keith,True,GEOGRAPHIC NICKNAMES,2,4000
+"Talk about ""big"" this--Saudi Aramco is sitting on 260 billion barrels of it, 10 times more than Exxon Mobil",30,400,False,oil,Keith,True,BUSINESS & INDUSTRY,2,4000
+"A sonnet says ""When to the sessions of sweet silent thought I summon up"" this, the English title of a Proust work",17,400,False,Remembrance of Things Past,Keith,True,"THANKS FOR THE TITLE, SHAKESPEARE",2,4000
+"In a kids' song, ""I lost my poor"" this ""when somebody sneezed""",12,400,False,meatball,Meredith,True,"LET'S HAVE A ""BALL""",2,4000
+He won the pentathlon & the decathlon at the summer Olympics in Stockholm,3,800,False,Jim Thorpe,Triple Stumper,False,100 YEARS AGO--1912,2,4000
+"Later one of the ""Desperate Housewives"", she was 1998's Miss Corpus Christi, Texas",21,800,False,Eva Longoria,Keith,False,BEAUTY QUEENS,2,4000
+"State capital that's ""the Mormon Metropolis""",8,800,False,Salt Lake City,Keith,True,GEOGRAPHIC NICKNAMES,2,4000
+"Lockheed Martin is big in security & I.T. but is still better known for making these, like its C-5",19,800,False,airplanes,Keith,True,BUSINESS & INDUSTRY,2,4000
+"The title of this 2011 novel about the 3 daughters of a Shakespeare professor gets its title from a trio in ""Macbeth""",18,800,False,The Weird Sisters,Tori,False,"THANKS FOR THE TITLE, SHAKESPEARE",2,4000
+"To put something into long-term storage, perhaps with small spheres of naphthalene",13,800,False,mothball,Keith,True,"LET'S HAVE A ""BALL""",2,4000
+"Later revealed to be a hoax, this fossilized man was presented at the Geological Society of London",4,1200,False,Piltdown Man,Keith,True,100 YEARS AGO--1912,2,4000
+"Movie roles of this former Miss Teen All American include Catwoman & Leticia Musgrove in ""Monster's Ball""",22,1200,False,Halle Berry,Tori,True,BEAUTY QUEENS,2,4000
+"Sicily's ""Mountain of Fire""",9,"2,000",True,Mount Etna,Keith,True,GEOGRAPHIC NICKNAMES,2,4000
+"This 3-letter drugstore comes before ""Caremark"" in the name of a giant company",20,1200,False,CVS,Tori,True,BUSINESS & INDUSTRY,2,4000
+"This collection of Hawthorne ""Tales"" probably got its title from a line in ""King John"":  ""Life is as tedious as"" these",29,1200,False,Twice-Told Tales,Triple Stumper,False,"THANKS FOR THE TITLE, SHAKESPEARE",2,4000
+To prevent someone from joining a group by voting against him,14,1200,False,blackball,Keith,True,"LET'S HAVE A ""BALL""",2,4000
+In November Albania declared its independence from this crumbling empire,5,1600,False,the Ottoman Empire,Tori,True,100 YEARS AGO--1912,2,4000
+"This movie star who appeared in 2012's ""Dark Shadows"" was a sun bunny who became Miss Orange County",23,1600,False,Michelle Pfeiffer,Meredith,True,BEAUTY QUEENS,2,4000
+"""The Bay of Giant Tides""",10,1600,False,the Bay of Fundy,Triple Stumper,False,GEOGRAPHIC NICKNAMES,2,4000
+"A downloadable app called this company's ""Greatest Hits"" features Asteroids & Missile Command",26,1600,False,Atari,Keith,True,BUSINESS & INDUSTRY,2,4000
+"Steinbeck didn't have to read much of ""Richard III"" to get the title of this 1961 novel",28,"3,200",True,The Winter of Our Discontent,Meredith,True,"THANKS FOR THE TITLE, SHAKESPEARE",2,4000
+Fungus that discharges a cloud of spores when mature,15,1600,False,a puffball,Meredith,False,"LET'S HAVE A ""BALL""",2,4000
+"The United Kingdom established the forerunner to the R.A.F.-- the R.F.C., short for this",6,2000,False,Royal Flying Corps,Meredith,True,100 YEARS AGO--1912,2,4000
+"She played former Miss Georgia World Suzanne Sugarbaker on ""Designing Women"" but in real life was 1974 Miss Florida",24,2000,False,Delta Burke,Keith,True,BEAUTY QUEENS,2,4000
+"A world capital since 1780, it's ""The Venice of the East""",11,2000,False,"Bangkok, Thailand",Triple Stumper,False,GEOGRAPHIC NICKNAMES,2,4000
+"This user review website made a ""noise of pain"" in March 2012 when its stock dropped after a promising IPO",25,2000,False,Yelp,Tori,True,BUSINESS & INDUSTRY,2,4000
+This title of David Foster Wallace's second novel comes from Hamlet's description of Yorick,27,2000,False,Infinite Jest,Meredith,True,"THANKS FOR THE TITLE, SHAKESPEARE",2,4000
+"Named for a famous engineer & inventor, it's a round molecule with 60 carbon atoms",16,2000,False,a buckyball,Keith,True,"LET'S HAVE A ""BALL""",2,4000
