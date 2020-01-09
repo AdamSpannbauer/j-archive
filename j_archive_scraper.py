@@ -120,9 +120,9 @@ if __name__ == '__main__':
 
     CSV_OUTPUT_DIR = 'data'
 
-    scraper = Scraper(robots_txt_url=ROBOTS_TXT_URL)
+    j_scraper = Scraper(robots_txt_url=ROBOTS_TXT_URL)
     for i in range(1, 21):
         print(f'Scraping/parsing episode #{i}')
-        ep_df = scrape_episode(scraper, episode_num=i)
+        ep_df = scrape_episode(j_scraper, episode_num=i)
         episode_csv = os.path.join(CSV_OUTPUT_DIR, f'episode_{i}.csv')
         ep_df.to_csv(episode_csv, index=False)
