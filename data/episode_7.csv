@@ -1,0 +1,61 @@
+answer,order_number,value,is_daily_double,correct_response,responder,is_correct,category,round_num,episode
+Barbra Streisand & Neil Diamond were contemporaries at Erasmus Hall High in this borough,16,200,False,Brooklyn,Robert,True,NEW YORK CITY,1,7
+"Baltic Avenue is the second property after ""Go"" in this game",6,200,False,Monopoly,Ken,True,SECONDS,1,7
+He was the son of Czar Alexis by his second wife Natalya,1,200,False,Peter the Great,Ken,True,"OH, FOR PETE'S SAKE!",1,7
+Good one deserves another turn,26,200,False,one good turn deserves another,Ken,True,A PROVERBIAL MESS,1,7
+"The title role in ""Boris Godunov"" is for a singer in this vocal range",11,200,False,bass,Robert,True,OPERA,1,7
+"In this film Dustin Hoffman's character Raymond Babbitt habitually watches ""Jeopardy!""",21,200,False,Rain Man,Ken,True,THE TALES OF HOFFMAN,1,7
+"(Sofia of the Clue Crew skates on the ice rink at Rockefeller Center, New York.)  Though there was a depression on, Rockefeller Rink opened on this festive day in 1936",17,400,False,Christmas Day,Kate,True,NEW YORK CITY,1,7
+It's the second of the Harry Potter books,7,400,False,Harry Potter and the Chamber of Secrets,Ken,True,SECONDS,1,7
+This man was the drummer for the Beatles before Ringo joined in 1962,2,400,False,Pete Best,Ken,True,"OH, FOR PETE'S SAKE!",1,7
+Boils never watched a pot,27,400,False,a watched pot never boils,Ken,True,A PROVERBIAL MESS,1,7
+"Peter Cornelius' opera ""The Barber of Baghdad"" was based on a tale in this collection",12,400,False,Arabian Nights,Ken,True,OPERA,1,7
+"Frank Wills, the security guard who discovered the Watergate break-in, played himself in this Hoffman film",22,400,False,All the President\'s Men,Ken,True,THE TALES OF HOFFMAN,1,7
+The heart of Little Italy is this street also found in a Dr. Seuss book title,18,"1,400",True,Mulberry Street,Kate,False,NEW YORK CITY,1,7
+"On Dec. 12, 1787 this ""Keystone State"" became the second U.S. state to ratify the Constitution",8,600,False,Pennsylvania,Ken,True,SECONDS,1,7
+Gray Davis succeeded him as governor of California,3,600,False,Pete Wilson,Ken,True,"OH, FOR PETE'S SAKE!",1,7
+Dogs lie sleeping let,28,600,False,let sleeping dogs lie,Ken,True,A PROVERBIAL MESS,1,7
+"In Sir Arthur Sullivan's ""Ivanhoe"", ""Ho, Jolly Jenkin"" is an aria for this Friar",13,600,False,Friar Tuck,Ken,True,OPERA,1,7
+Posters for this 1982 film featured Hoffman in a red sequined dress,23,600,False,Tootsie,Ken,True,THE TALES OF HOFFMAN,1,7
+"In honor of NYC's blaze-battlers, these 4 letters appeared on a lot of caps in 2001",19,800,False,FDNY,Kate,True,NEW YORK CITY,1,7
+"""No graven images"" is number 2 on this ancient list",9,800,False,the Ten Commandments,Ken,True,SECONDS,1,7
+"In 2000 he won the Wimbledon men's singles, his 13th Grand Slam title",4,800,False,Pete Sampras,Ken,True,"OH, FOR PETE'S SAKE!",1,7
+Once twice shy bitten,29,800,False,once bitten twice shy,Ken,True,A PROVERBIAL MESS,1,7
+"Wagner didn't want ""Parsifal"" performed outside of this city that now holds Wagner festivals",14,800,False,Bayreuth,Robert,True,OPERA,1,7
+"""Everybody's Talkin'"" served as the theme to this 1969 film in which Hoffman played street hustler Ratso Rizzo",24,800,False,Midnight Cowboy,Ken,True,THE TALES OF HOFFMAN,1,7
+This mental hospital is the primary teaching hospital for NYU's medical school,20,1000,False,Bellevue,Ken,True,NEW YORK CITY,1,7
+It's the second chemical element listed on the periodic table,10,1000,False,helium,Ken,True,SECONDS,1,7
+Dutch colonial governor of New Amsterdam who bought it from the Indians,5,1000,False,Peter Minuit,Kate,True,"OH, FOR PETE'S SAKE!",1,7
+A color different of a horse,30,1000,False,a horse of a different color,Kate,True,A PROVERBIAL MESS,1,7
+"His ""Elecktra"" in 1908 may have been electric, but it was his ""Salome"" 3 years earlier that was scandalous",15,1000,False,Richard Strauss,Robert,False,OPERA,1,7
+In this 1997 film a Washington spin doctor & a Hollywood producer team up to stage a phony war,25,1000,False,Wag the Dog,Ken,True,THE TALES OF HOFFMAN,1,7
+"Accepting the GOP nomination for U.S. Senate in 1858, he said ""A house divided against itself cannot stand""",1,400,False,Abraham Lincoln,Ken,True,19th CENTURY AMERICA,2,7
+"This duo dedicated a 1984 to ""All the girls who shared my life who are now someone else's wives""",14,400,False,Willie Nelson and Julio Iglesias,Robert,True,'80s SONGS,2,7
+"By dropping 2 letters in Osiris' name, you get this Greek goddess who shares her name with a flower",21,400,False,Iris,Ken,True,FLOWER POWER,2,7
+"In ""Through the Looking Glass"" he tells Alice there's no chance he'd ever fall off his wall",11,400,False,Humpty Dumpty,Ken,True,RHYME TIME,2,7
+"In the mid-1880s, it was the capital of the Crown colony of Vancouver Island",6,400,False,Victoria,Ken,True,CANADIAN PROVINCIAL CAPITALS,2,7
+"Surrealist, Spanish, died in 1989, hello...",26,400,False,(Salvador) Dalí,Robert,True,LET'S CUT TO THE CHASE,2,7
+"Completed in June 1854, the lighthouse on this island in San Francisco Bay was the West Coast's first active one",2,800,False,Alcatraz,Ken,True,19th CENTURY AMERICA,2,7
+"This 1980 No. 1 hit was the theme from the movie ""American Gigolo""",15,800,False,"""Call Me""",Triple Stumper,False,'80s SONGS,2,7
+"I can't recall the last time that I saw one of these hyphenated perennials, from the Old French ""Ne m'oubliez mie""",22,800,False,forget-me-not,Ken,True,FLOWER POWER,2,7
+"In ""Through the Looking Glass"" he tells Alice his horse has anklets to guard against shark bites",12,800,False,the White Knight,Ken,True,RHYME TIME,2,7
+It's the only provincial capital that lies on the shore of one of the Great Lakes,7,800,False,Toronto,Ken,True,CANADIAN PROVINCIAL CAPITALS,2,7
+"Finnish composer, ""Valse triste"", died in 1957",27,800,False,Sibelius,Ken,True,LET'S CUT TO THE CHASE,2,7
+In April 1824 the U.S. & this country agreed to 54 deg. 40 min. N. latitude as the southern limit of its west coast claims,3,1200,False,Russia,Ken,False,19th CENTURY AMERICA,2,7
+"The video for this song, Toni Basil's only hit, featured cheerleaders",16,1200,False,"""Mickey""",Kate,True,'80s SONGS,2,7
+This computing term for a series of peripherals connected to a computer sounds like a school day flower bracelet,23,1200,False,daisy chain,Ken,True,FLOWER POWER,2,7
+(Sofia of the Clue Crew wears inappropriate attire that is too revealing.)  Here's some advice--don't wear a St. Patty's Day shirt when working with this,13,1200,False,a green screen,Kate,True,RHYME TIME,2,7
+"Lying about 175 miles north of Calgary, it's known as the ""Gateway to the North""",8,1200,False,Edmonton,Ken,True,CANADIAN PROVINCIAL CAPITALS,2,7
+"""Lion of Judah"", Ethiopian, died in 1975",28,1200,False,Haile Selassie,Ken,True,LET'S CUT TO THE CHASE,2,7
+"This 19th C. glass was named for the Massachusetts village where it was made, not for a club or a dagwood",4,1600,False,Sandwich glass,Triple Stumper,False,19th CENTURY AMERICA,2,7
+"This Pat Benatar song says, ""You come on like a flame, then you turn a cold shoulder""",17,1600,False,"""Fire And Ice""",Kate,False,'80s SONGS,2,7
+This flower that Shakespeare wrote about several times was also the name of a theatre he once worked at,24,"3,400",True,a rose,Ken,True,FLOWER POWER,2,7
+"Nickname of Irwin Allen, who produced ""The Towering Inferno"" & ""The Poseidon Adventure""",19,1600,False,the Master of Disaster,Ken,True,RHYME TIME,2,7
+This capital's harbor is spanned by the Angus L. MacDonald & A. Murray MacKay suspension bridges,9,"4,000",True,Halifax,Ken,True,CANADIAN PROVINCIAL CAPITALS,2,7
+"2-time Pulitzer winner, Mississippian, died in 1962",29,1600,False,William Faulkner,Robert,True,LET'S CUT TO THE CHASE,2,7
+"On July 4, 1828 President John Quincy Adams broke ground for this canal, known as the C&O",5,2000,False,the Chesapeake & Ohio Canal,Triple Stumper,False,19th CENTURY AMERICA,2,7
+"A Belgian DJ created this studio group that had hits with ""Pump Up The Jam"" and ""Move This""",18,2000,False,Technotronic,Ken,False,'80s SONGS,2,7
+"Type of ""wine"" mentioned in the title of a 1957 Ray Bradbury novel",25,2000,False,dandelion wine,Ken,True,FLOWER POWER,2,7
+Ronald Reagan often accused pessimistic critics of peddling this rhyming pair,20,2000,False,gloom and doom,Kate,True,RHYME TIME,2,7
+It's the provincial capital closest to Europe,10,2000,False,St. John\'s,Ken,True,CANADIAN PROVINCIAL CAPITALS,2,7
+"Monk, ""Ecclesiastical History"", born around 673",30,2000,False,the Venerable Bede,Ken,True,LET'S CUT TO THE CHASE,2,7

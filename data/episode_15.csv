@@ -1,0 +1,61 @@
+answer,order_number,value,is_daily_double,correct_response,responder,is_correct,category,round_num,episode
+This lake in the Western U.S. has a specific gravity that is 10-22% higher than that of fresh water,16,200,False,the Great Salt Lake,Sean,True,U.S. LAKES,1,15
+Quarterback Roger Staubach spent his entire 11-seaons pro career with this team,11,200,False,the Dallas Cowboys,Sean,True,PRO FOOTBALL,1,15
+"In 1987 this U.S. college's chancellor got a new chain of office, with a badge reading ""1693""",26,200,False,William and Mary,Anne,False,CHAIN OF COMMAND,1,15
+"If Ms. Hunter of ""Broadcast News"" married Rolling Stone Ron, she'd say hooray for this name",21,200,False,Holly Wood,Anne,True,IF THEY MARRIED...,1,15
+"The day after he landed from England in 1775, Penn.'s assembly named him to the Continental Congress",4,200,False,Benjamin Franklin,Sean,True,PATRIOTS,1,15
+It's the Turkish word for fate or destiny,1,200,False,kismet,Sean,True,FOREIGN WORDS & PHRASES,1,15
+"This largest Florida lake covers about 700 square miles, but its greatest depth is only about 15 feet",17,400,False,Lake Okeechobee,Sean,True,U.S. LAKES,1,15
+This Pittsburgh Steelers tackle was named the AP's defensive player of the year twice: 1972 & 1974,12,400,False,Mean Joe Greene,Sean,True,PRO FOOTBALL,1,15
+"Chains of office are worn by Grand Lodge Officers of this group, possibly named from being though peculiar",27,400,False,the Oddfellows,Anne,True,CHAIN OF COMMAND,1,15
+"If ""Entertainment Tonight"" anchor Mary married Irish actor Gabriel, she'd suffer with this hyphenated name",22,400,False,Hart-Byrne,Anne,True,IF THEY MARRIED...,1,15
+"John Dickenson's ""Fabius"" letters helped make this state he represented the first to ratify the Constitution",7,400,False,Delaware,Sean,True,PATRIOTS,1,15
+"(Cheryl of the Clue Crew eats a slice of pizza on Arthur Avenue in New York.)  A motto on Arthur Avenue is ""mangia bene, vivi bene"", which translates to this",2,400,False,"eat well, live well",Jim,True,FOREIGN WORDS & PHRASES,1,15
+"J. Strom Thurmond Lake, which has more than 100 small islands, lies on this state's border with Georgia",18,600,False,South Carolina,Sean,True,U.S. LAKES,1,15
+"In 1969 he left the Packers & became the head coach, general manager & part owner of the Washington Redskins",13,600,False,Vince Lombardi,Triple Stumper,False,PRO FOOTBALL,1,15
+This chain-wearer seen here sailed from Lisbon in 1497 with the São Gabriel and other ships under his command,28,600,False,Vasco da Gama,Triple Stumper,False,CHAIN OF COMMAND,1,15
+"'80s singer Kim (""Kids In America"") forms a duo with Daryl Hall's singer partner & sows this hyphenated name",23,600,False,Wilde-Oates,Jim,True,IF THEY MARRIED...,1,15
+"Thinking him conceited some added a ""Y"" to the last name of this Declaration signer born in 1737",8,400,True,John Hancock,Sean,True,PATRIOTS,1,15
+"A statement that has nothing to do with the argument at hand, this Latin term literally means ""it does not follow""",3,600,False,non-sequitur,Anne,True,FOREIGN WORDS & PHRASES,1,15
+"The 2nd-largest freshwater lake totally within the U.S., this state's Lake Iliamna is the spawning ground for red salmon",19,800,False,Alaska,Triple Stumper,False,U.S. LAKES,1,15
+"In 1960, after 40 years in Chicago, this team moved to St. Louis",14,800,False,the Cardinals,Triple Stumper,False,PRO FOOTBALL,1,15
+"A chain of office is part of the regalia of this deluded steward in ""Twelfth Night""",29,800,False,Malvolio,Sean,False,CHAIN OF COMMAND,1,15
+"Ms. Cantrell, a jazzy vocalist, weds actor Jude & gets this puritanical name",24,800,False,Blu Law,Anne,True,IF THEY MARRIED...,1,15
+"1 of the 2 ""Federalist"" authors whose lives were not ended by gunfire",9,800,False,James Madison (or John Jay),Sean,True,PATRIOTS,1,15
+This 2-word French phrase is used of a monomaniacal obsession,5,800,False,idée fixe,Anne,True,FOREIGN WORDS & PHRASES,1,15
+"Hawaii's Lake Waiau lies at 13,020 feet, atop this dormant volcano on the Big Island",20,1000,False,Mauna Kea,Jim,False,U.S. LAKES,1,15
+"The Las Vegas Outlaws & Los Angeles Xtreme were teams in this league that lasted just one season, 2001",15,1000,False,the XFL,Sean,True,PRO FOOTBALL,1,15
+"2-word term for the Sheffield, England offical who wears a 2-pound chain of 18-karat gold",30,1000,False,the Lord Mayor,Triple Stumper,False,CHAIN OF COMMAND,1,15
+"Singer Vikki thinks ""it must be him"" of English dramatist Harold & hyphenates her name to become...",25,1000,False,Vikki Carr-Pinter,Triple Stumper,False,IF THEY MARRIED...,1,15
+"(I'm John DeStefano, Mayor of New Haven, but) This man, our first mayor, was the only man to sign the 4 great U.S. founding documents, including the Constitution",10,1000,False,Roger Sherman,Triple Stumper,False,PATRIOTS,1,15
+"Literally Welsh for ""session"", it's an annual get-together of Welsh bards & musicians",6,1000,False,eisteddfod,Triple Stumper,False,FOREIGN WORDS & PHRASES,1,15
+"Until 1998 a plant in Fairfax, Vermont churned out the wooden tiles for this game, about a million a day",1,400,False,Scrabble,Anne,True,AMERICANA,2,15
+"Lester Bangs called this ""Combat Rock"" band ""the missing link between black music and white noise""",6,400,False,The Clash,Sean,True,PUNK,2,15
+"On this date in 1862, Mexico defeated France at the decisive Battle of Puebla",21,400,False,Cinco de Mayo,Sean,True,VICTORY IS OURS,2,15
+It's the only Olympic event that bears the name of a famous battle,26,400,False,the marathon,Anne,True,THIS IS GONNA BE TOUGH,2,15
+"""Am I my brother's keeper?""",11,400,False,Genesis,Sean,True,BIBLE BOOKS BY FAMOUS PHRASE,2,15
+"This Spanish surrealist said, ""Have no fear of perfection--you'll never reach it""",14,400,False,(Salvador) Dalí,Sean,True,WISH I'D SAID THAT,2,15
+It was in this state in the late 1800s that Standard Oil & National Cash Register rang up their first sales,2,"2,000",True,Ohio,Anne,False,AMERICANA,2,15
+"The Damned began as the Masters of the Backside with this ""Pretender"", the Emma Peel of Rock & Roll, on guitar",7,800,False,Chrissie Hynde,Anne,True,PUNK,2,15
+"In 711 a Muslim army defeated Roderick, the last king of these people in Spain",22,800,False,the Visigoths,Sean,True,VICTORY IS OURS,2,15
+"In the 1800s this American removed the Us from honour & colour & turned ""centre"" into ""center""",27,800,False,Noah Webster,Jim,True,THIS IS GONNA BE TOUGH,2,15
+"""It is more blessed to give than to receive""",12,800,False,Acts of the Apostles,Triple Stumper,False,BIBLE BOOKS BY FAMOUS PHRASE,2,15
+"When asked what his favorite one of these was, Jack Palance joked, ""poppy seed""",17,800,False,roles,Anne,True,WISH I'D SAID THAT,2,15
+"The Breakers, an opulent mansion in Newport, Rhode Island, was built as a ""summer cottage"" for this family",3,1200,False,the Vanderbilts,Anne,True,AMERICANA,2,15
+"So-Cal Punk was personified in this Black Flag frontman with the ""Hot Animal"" soul of a poet",8,1200,False,Henry Rollins,Sean,True,PUNK,2,15
+In 878 this great king of Wessex defeated the invading Danes at the Battle of Edington,23,1200,False,Alfred the Great,Sean,True,VICTORY IS OURS,2,15
+The only 2 letters with which a current independent country name in English does not begin,28,1200,False,W and X,Triple Stumper,False,THIS IS GONNA BE TOUGH,2,15
+"""My cup runneth over""",13,1200,False,Psalms,Anne,True,BIBLE BOOKS BY FAMOUS PHRASE,2,15
+"H.L. Mencken defined Puritanism as ""the haunting fear that someone, somewhere, may be"" this",18,1200,False,happy,Sean,True,WISH I'D SAID THAT,2,15
+In 1997 this 12-year-old Springer Spaniel passed away at home in Kennebunkport,4,1600,False,Millie (the Bush family dog),Triple Stumper,False,AMERICANA,2,15
+"To secure this band's 1978 U.S. visas, Warner reportedly put up $1 million to guarantee their behavior",9,1600,False,The Sex Pistols,Anne,True,PUNK,2,15
+Lord Admiral Howard's warships defeated the vaunted Spanish Armada in the English Channel in this year,24,1600,False,1588,Triple Stumper,False,VICTORY IS OURS,2,15
+"In a 1968 film it was revealed that this machine was born on January 12, 1992 in Urbana, Illinois",29,1600,False,HAL,Jim,True,THIS IS GONNA BE TOUGH,2,15
+"""Physician, heal thyself""",15,400,True,Luke,Sean,False,BIBLE BOOKS BY FAMOUS PHRASE,2,15
+"Jeremy Bentham said these are ""the only persons in whom ignorance of the law is not punished""",19,1600,False,lawyers,Sean,False,WISH I'D SAID THAT,2,15
+"In 1986 this model kit company merged with its main competitor, Monogram",5,2000,False,Revell,Triple Stumper,False,AMERICANA,2,15
+"This ""Godfather of Punk"" is still a ""Real Wild Child"" jamming with Green Day & Peaches on his ""Skull Ring"" album",10,2000,False,Iggy Pop,Sean,True,PUNK,2,15
+In 1954 Viet Minh forces under the commands of this general defeated the French at Dien Bien Phu,25,2000,False,Vo Nguyen Giap,Sean,False,VICTORY IS OURS,2,15
+Months that contain a Friday the 13th will always begin on this day of the week,30,2000,False,Sunday,Triple Stumper,False,THIS IS GONNA BE TOUGH,2,15
+"""Many are called, but few are chosen""",16,2000,False,Matthew,Triple Stumper,False,BIBLE BOOKS BY FAMOUS PHRASE,2,15
+"""It is the spectator, and not life, that art really mirrors"", wrote Oscar Wilde in the preface to this novel",20,2000,False,The Picture of Dorian Gray,Anne,True,WISH I'D SAID THAT,2,15

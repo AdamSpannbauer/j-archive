@@ -1,0 +1,61 @@
+answer,order_number,value,is_daily_double,correct_response,responder,is_correct,category,round_num,episode
+"If you’re rowin’ the Rhone from start to finish, you begin in this mountain range",11,200,False,the Alps,Bruce,True,RIVER SOURCES,1,6
+The Continental & the Town Car are models from this Ford division,26,200,False,Lincoln,Bruce,True,CAR TREK,1,6
+A murder suspect named Injun Joe,6,200,False,The Adventures of Tom Sawyer,Ken,True,WHAT A CHARACTER!,1,6
+The Harlem Globetrotters were founded in this city famous for its blues & its fire,16,200,False,Chicago,Bruce,True,POP CULTURE AMERICA,1,6
+"November 16, 1952:For the first time, she holds a football for Charlie Brown to kick",1,200,False,Lucy,Ken,True,A PEANUTS TIMELINE,1,6
+The USA's tallest bridge towers are the 746-foot steel peaks of this structure,21,200,False,the Golden Gate Bridge,Bruce,True,"YOU'RE ""GOLDEN"", BABY",1,6
+The Krishna starts near one coast of this country & flows almost all the way across it,12,400,False,India,Ken,True,RIVER SOURCES,1,6
+"In a Stephen King-based movie, this title vehicle was a red 1958 Plymouth Fury",27,400,False,Christine,Bruce,True,CAR TREK,1,6
+Troubled Air Force Captain John Yossarian,7,400,False,Catch-22,Ken,True,WHAT A CHARACTER!,1,6
+"In the 1940s if you weren't commie enough to be ""red"" people used this 5-letter epithet that was a shade lighter",17,400,False,pinko,Ken,True,POP CULTURE AMERICA,1,6
+"July 20, 1971:Marcie first calls this character ""Sir""",2,400,False,Peppermint Patty,Ken,True,A PEANUTS TIMELINE,1,6
+This NBA team took the 1975 championship,22,400,False,the Golden State Warriors,Ken,True,"YOU'RE ""GOLDEN"", BABY",1,6
+It doesn’t have its distinct color yet when it emerges in Qinghai Province,13,600,False,the Yellow River,Ken,True,RIVER SOURCES,1,6
+"In 1964, the first year of its release, this popular muscle car was the Indy 500 pace car",28,600,False,a Mustang,Ken,True,CAR TREK,1,6
+A small slave girl named Topsy,8,600,False,Uncle Tom’s Cabin,Ken,True,WHAT A CHARACTER!,1,6
+Object associated with the Lone Ranger & with Bob Seger's Band,18,600,False,a silver bullet,Ken,True,POP CULTURE AMERICA,1,6
+"August 23, 1959:She joins Charlie Brown's family as his younger sister",3,600,False,Sally,Ken,True,A PEANUTS TIMELINE,1,6
+It's the second-most registered dog breed at the American Kennel Club,23,600,False,a golden retriever,Bruce,True,"YOU'RE ""GOLDEN"", BABY",1,6
+It's formed by the junction of the Luvua & Lualaba in the country named for it,14,800,False,the Congo,Ken,True,RIVER SOURCES,1,6
+The LS 400 and the ES 250 were the first models of this luxury car line from Toyota,29,800,False,Lexus,Ken,True,CAR TREK,1,6
+Professor Henry Higgins,9,800,False,Pygmalion,Ken,True,WHAT A CHARACTER!,1,6
+"In alphabetical order, the 3 spokesmen for Rice Krispies",19,800,False,"Crackle, Pop & Snap",Ken,True,POP CULTURE AMERICA,1,6
+"September 24, 1990:This hygiene-challenged boy runs for class president",4,800,False,Pig-Pen,Ken,True,A PEANUTS TIMELINE,1,6
+Jason stole it for his Uncle Pelias,24,800,False,the Golden Fleece,Bruce,True,"YOU'RE ""GOLDEN"", BABY",1,6
+This Mideastern boundary river rises on the slopes of Mount Hermon,15,"2,200",True,the Jordan,Ken,True,RIVER SOURCES,1,6
+"The Rio is from Kia, which is owned by this South Korean automaker",30,1000,False,Hyundai,Ken,True,CAR TREK,1,6
+Marooned sailor Ben Gunn,10,1000,False,Treasure Island,Ken,True,WHAT A CHARACTER!,1,6
+"The Winchester '73 and the Colt .45 have both been referred to as ""the gun that"" did this",20,1000,False,won the West,Ken,True,POP CULTURE AMERICA,1,6
+"September 1, 1991:This young virtuoso becomes a spokesman for National Piano Month",5,1000,False,Schroeder,Ken,True,A PEANUTS TIMELINE,1,6
+Sir James Frazer compared mythologies & religions in this work,25,1000,False,The Golden Bough,Ken,True,"YOU'RE ""GOLDEN"", BABY",1,6
+This rock from Georgia was used to sculpt the statue of Lincoln in the Lincoln Memorial,17,400,False,marble,Ken,True,GEOLOGY,2,6
+"In a Billy Joel hit, she's ""looking for a downtown man""",12,400,False,an Uptown Girl,Ken,True,MUSIC,2,6
+"Resh kallah,rebbe",7,400,False,Judaism,Dana,True,RELIGIOUS TITLES,2,6
+"This movie heartthrob isn't ""From Hell"" or from ""Sleepy Hollow""; he's from Owensboro, Ky.",2,400,False,Johnny Depp,Ken,True,FAMOUS KENTUCKIANS,2,6
+This veggie was almost uneaten in the U.S. until the D'Arrigo Bros. Produce Company started marketing it in the 1920s,1,400,False,broccoli,Bruce,True,MISHMASH,2,6
+The branch of linguistics dealing with the sounds of speech,22,400,False,phonetics,Ken,True,"ON THE ""PHONE""",2,6
+"Crude oil can be extracted from this rock, the most abundant sedimentary rock in the Earth's crust",18,800,False,shale,Ken,True,GEOLOGY,2,6
+"Critics love this 10-letter adjective to describe music resembling ""Lay Lady Lay"" or ""Like A Rolling Stone""",13,800,False,Dylanesque,Ken,True,MUSIC,2,6
+"Sharif,ayatollah",8,800,False,Islam,Ken,True,RELIGIOUS TITLES,2,6
+"(Jimmy of the Clue Crew sits at a table in the Seelbach Hilton in Louisville, KY.)  This boxing legend known as the Louisville Lip loves to dine here at the Oak Room when he's visiting his hometown",3,800,False,Muhammad Ali,Bruce,True,FAMOUS KENTUCKIANS,2,6
+"If your stylist puts humectant conditioner in your hair, it's most likely because your hair is this",27,800,False,dry,Bruce,True,MISHMASH,2,6
+2 words that sound alike but are spelled differently,23,800,False,homophones,Ken,True,"ON THE ""PHONE""",2,6
+"The Hawaiian islands consist mostly of this hard, dark volcanic rock",19,1200,False,basalt,Ken,True,GEOLOGY,2,6
+(Typewriter) keyboardist Paul Ackerman entered the R&R Hall of Fame by editing this music journal for 30 years,14,1200,False,Billboard,Dana,True,MUSIC,2,6
+"Babu,jagadguru",9,1200,False,Hinduism,Dana,True,RELIGIOUS TITLES,2,6
+"Her brother Nick, nephew George & friend Al Pacino all attended her 2002 funeral in Maysville, Ky., her hometown",4,"3,000",True,Rosemary Clooney,Bruce,False,FAMOUS KENTUCKIANS,2,6
+"At an estate sale, Carl Rice spent $60 on 2 of these by Martin Johnson Heade; they later sold for over $1 million",28,1200,False,paintings,Ken,True,MISHMASH,2,6
+Daughter of Zeus & Demeter,24,1200,False,Persephone,Ken,True,"ON THE ""PHONE""",2,6
+"Due to its luster, German miners gave this ""pleasant"" rock its name, which means ""spark""",20,"7,000",True,gneiss,Ken,True,GEOLOGY,2,6
+The riff heard here kicks off a recent album by this band,15,1600,False,The White Stripes,Ken,True,MUSIC,2,6
+"Bhai,sardar",10,1600,False,Sikhism,Ken,True,RELIGIOUS TITLES,2,6
+"Good morning to this newswoman, who's seen here in 1963, when she was America's Junior Miss",5,1600,False,Diane Sawyer,Dana,True,FAMOUS KENTUCKIANS,2,6
+"Oaxaca is ""the land of 7"" of these rich sauces, including the negro & verde types",29,1600,False,molés,Ken,True,MISHMASH,2,6
+An English language speaker,25,1600,False,an Anglophone,Ken,True,"ON THE ""PHONE""",2,6
+The Pilgrim Monument in Provincetown is the tallest structure in the U.S. made entirely of this,21,2000,False,granite,Triple Stumper,False,GEOLOGY,2,6
+"""Stoned"" is a memoir of '60s London by this then-manager of the Rolling Stones",16,2000,False,Andrew Oldham,Triple Stumper,False,MUSIC,2,6
+T'ien shih,11,2000,False,Taoism,Ken,False,RELIGIOUS TITLES,2,6
+"In the '40s & '50s this Kentucky-born hunk starred in biblical films like ""The Robe"" & ""Samson and Delilah""",6,2000,False,Victor Mature,Ken,True,FAMOUS KENTUCKIANS,2,6
+"These political ""issues"" get their name because they can split apart a unified movement",30,2000,False,wedge issues,Bruce,False,MISHMASH,2,6
+The smallest unit in a language capable of conveying distinction in meaning,26,2000,False,a phoneme,Ken,True,"ON THE ""PHONE""",2,6

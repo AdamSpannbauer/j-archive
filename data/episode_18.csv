@@ -1,0 +1,61 @@
+answer,order_number,value,is_daily_double,correct_response,responder,is_correct,category,round_num,episode
+"(Jimmy of the Clue Crew delivers from an open mic in a small club.)  I tell you it was so cold today... (How cold was it?) It was so cold, I wished we were back in 64 when he was emperor. Hot times, if you know what I mean!",12,200,False,Nero,Arthur,True,ANCIENT ROMAN STAND-UP COMEDY,1,18
+"The year Stallone debuted the first of the 3 ""Rambo"" films he also appeared in the 3rd film in this series",7,200,False,Rocky,Arthur,True,THE 3rd FILM IN THE SERIES,1,18
+"Look up your car's trade-in value & get new car pricing at kbb.com; KBB, short for this",26,200,False,Kelley Blue Book,Arthur,True,WEBSITES,1,18
+The Grand Canal connects the Yangtze River to this other major river,6,200,False,the Yellow River,Steve,True,YANGTZE DOODLE,1,18
+"The company named for this woman, co-founder with her husband Sid, urges a balanced food, body & mind approach",18,200,False,Jenny Craig,Triple Stumper,False,GO ON A DIET,1,18
+"""El silencio es oro""",1,200,False,silence is golden,Steve,True,PROVERBIOS EN ESPAÑOL,1,18
+"(Jimmy of the Clue Crew delivers from an open mic in a small club.)  Boy, in the old days we knew how to par-tay.  You know what they say--if you can remember this festival of the god Bacchus, you weren't there!",13,400,False,a bacchanalia,Arthur,True,ANCIENT ROMAN STAND-UP COMEDY,1,18
+"This character was the object of the title search in ""Star Trek III""",11,400,False,Spock,Tom,True,THE 3rd FILM IN THE SERIES,1,18
+"""Bush regales dinner guests with impromptu oratory on Virgil's minor works"", this satirical news website headlined",27,400,False,The Onion,Tom,True,WEBSITES,1,18
+The 2 rivers in the world that are longer than the Yangtze,8,400,False,the Amazon and the Nile,Arthur,True,YANGTZE DOODLE,1,18
+All foods have a point value & you're given an assigned daily point total at a meeting in this Heinz-owned plan,19,400,False,Weight Watchers,Steve,True,GO ON A DIET,1,18
+"""El fin justifica los medios""",2,400,False,the end justifies the means,Tom,True,PROVERBIOS EN ESPAÑOL,1,18
+"(Jimmy of the Clue Crew delivers from an open mic in a small club.)  See, in this place, I like to stay in the calderium; avoid the frigidarium.  I like my tenaculum the size it is!",14,600,False,the baths,Tom,True,ANCIENT ROMAN STAND-UP COMEDY,1,18
+"In a 1990 film in this series, Marty travels to 1885 to save Doc Brown",23,600,False,Back to the Future,Tom,True,THE 3rd FILM IN THE SERIES,1,18
+"This 6-letter .com claims to find ""the right answer for... every one"" of the 200 million queries its users have daily",28,600,False,Google,Arthur,True,WEBSITES,1,18
+The Yangtze flows through this province that's China's most populous & known for its spicy cuisine,9,600,False,Szechuan,Tom,True,YANGTZE DOODLE,1,18
+"Whoopi Goldberg's a big loser on this ""shake""y product & diet",20,600,False,Slim·Fast,Tom,True,GO ON A DIET,1,18
+"""El amor es ciego""",3,600,False,love is blind,Steve,True,PROVERBIOS EN ESPAÑOL,1,18
+"(Jimmy of the Clue Crew delivers from an open mic in a small club.)  Talk about a terrible cook!  My wife's pretty bad, but at least she never gave me poisoned figs like Livia gave this guy",15,800,False,Augustus Caesar,Tom,False,ANCIENT ROMAN STAND-UP COMEDY,1,18
+"""With a Vengeance"", not ""III"", came after this in the title of a 1995 film",24,800,False,Die Hard,Tom,True,THE 3rd FILM IN THE SERIES,1,18
+"At him online.com, visitors have hit a link to his golf club, applied for a job on his NBC show & basked in his excess",29,800,False,Trump,Arthur,True,WEBSITES,1,18
+"Native to the Yangtze river valley, this fruit is also known as a Chinese gooseberry",10,800,False,a kiwi,Steve,True,YANGTZE DOODLE,1,18
+"Eating the proper balance of low-fat proteins, carbs & good fat is the key to this Dr. Sears diet",21,800,False,The Zone,Tom,False,GO ON A DIET,1,18
+"""La pluma es mas poderosa que la espada""",4,800,False,the pen is mightier than the sword,Arthur,True,PROVERBIOS EN ESPAÑOL,1,18
+(Jimmy of the Clue Crew delivers from an open mic in a small club.)  How about Varis's army being wiped out in the forest in this country?  That's like me being in the arena against Spartacus!,16,1000,False,Germany,Arthur,True,ANCIENT ROMAN STAND-UP COMEDY,1,18
+"Lorraine Axeman, one of our researchers, was an extra in ""Army of Darkness"", Sam Raimi's 3rd film in this Series",25,1000,False,The Evil Dead,Steve,True,THE 3rd FILM IN THE SERIES,1,18
+"This abbreviation .gov promises that the organization is ""bringing safety to America's skies""",30,1000,False,FAA,Tom,True,WEBSITES,1,18
+"This dam, one of the world's largest when completed, is being built on the Yangtze to control flooding",17,1000,False,the Three Gorges Dam,Tom,True,YANGTZE DOODLE,1,18
+"This geographic diet's name comes from the Greek & Southern Italian consumption of grain, fruit, veggies & fish",22,1000,False,the Mediterranean Diet,Tom,True,GO ON A DIET,1,18
+"""Las malas noticias viajan rapido""",5,"1,000",True,bad news travels fast,Arthur,True,PROVERBIOS EN ESPAÑOL,1,18
+"In Shakespeare's ""Romeo & Juliet"" we learn that this flower ""by any other name would smell as sweet""",10,400,False,a rose,Arthur,True,FLOWERS,2,18
+"His first published song was 1909's ""Marie from Sunny Italy""; later ones include ""Cheek to Cheek"" & ""Easter Parade""",16,400,False,Irving Berlin,Arthur,True,THE GREAT AMERICAN SONGBOOK,2,18
+"A museum dedicated to this literary character is located, where else, but at ""221B"" Baker Street in London",20,400,False,Sherlock Holmes,Arthur,True,MUSEUMS,2,18
+"Her career as a novelist dawned with ""Dawn O'Hara""; ""Show Boat"" showed up later",2,400,False,Edna Ferber,Tom,True,LITERATURE,2,18
+"""An Invitation to the White House"" is a bestseller by this current senator",1,400,False,(Hillary) Clinton,Tom,True,THE WOMEN OF CONGRESS,2,18
+"Meatpacking ""Jungle"" city plus burrowing rodent",26,400,False,Chicagopher,Arthur,True,JEOPORTMANTEAU!,2,18
+The Italians call this flower girasole because its head turns to follow the light,11,800,False,a sunflower,Arthur,True,FLOWERS,2,18
+"This song complains, ""Since my gal and I ain't together keeps raining all the time""",22,800,False,"""Stormy Weather""",Tom,True,THE GREAT AMERICAN SONGBOOK,2,18
+"For nearly 4 centuries, what is now the Topkapi Palace Museum was the residence of this empire's sultans",21,800,False,the Ottoman Empire,Tom,True,MUSEUMS,2,18
+Gom Gut & Plick et Plock were pseudonyms of this Inspector Maigret creator,3,800,False,Georges Simenon,Triple Stumper,False,LITERATURE,2,18
+"Judy Biggert represents this state's 13th District, which includes parts of DuPage, Will & Cook counties",6,800,False,Illinois,Arthur,True,THE WOMEN OF CONGRESS,2,18
+Thane of Cawdor plus birthplace of Jesus,27,800,False,Macbethlehem,Arthur,True,JEOPORTMANTEAU!,2,18
+"It's believed that this flower's scientific name Papaver came from ""pap"" because its juice was used to make babies sleepy",12,1200,False,the poppy,Tom,True,FLOWERS,2,18
+"Dorothy Fields, the most successful female theater lyricist of the 20th century, wrote the words to this classic",23,1200,False,"""A Fine Romance""",Triple Stumper,False,THE GREAT AMERICAN SONGBOOK,2,18
+"Appropriately, this vast Russian art museum houses the icon of St. Nicholas seen here",17,1200,False,the Hermitage,Arthur,True,MUSEUMS,2,18
+"Hmm... he dedicated his 1820 poem ""The Witch of Atlas"" to his wife Mary",4,1200,False,(Percy Bysshe) Shelley,Steve,True,LITERATURE,2,18
+In 2003 Republican Lisa Murkowski took the oath of office as this state's sixth U.S. Senator since statehood,7,"1,200",True,Alaska,Arthur,True,THE WOMEN OF CONGRESS,2,18
+"""Book""ish nickname of fictional young detective Leroy Brown plus the doctor he might see for a check-up",28,1200,False,Encyclopediatrician,Steve,True,JEOPORTMANTEAU!,2,18
+"Known as a ""fairy flower"", this bloom of the genus Digitalis has a darker side; large does of it can be poisonous",13,1600,False,foxglove,Tom,False,FLOWERS,2,18
+"The last song George Gershwin composed, its title is followed by the line ""not for a year, but ever and a day""",24,1600,False,"""Our Love Is Here To Stay""",Tom,True,THE GREAT AMERICAN SONGBOOK,2,18
+"The Vasamuseet in Stockholm houses one of the oldest complete examples of these, the Vasa",18,1600,False,a ship,Tom,True,MUSEUMS,2,18
+"Lloyd Brown, once an inmate of this city's Alleghany County jail, based his novel ""Iron City"" on life there",5,1600,False,Pittsburgh,Arthur,True,LITERATURE,2,18
+Republican Barbara Cubin represents this state in the House all by herself,8,1600,False,Wyoming,Tom,True,THE WOMEN OF CONGRESS,2,18
+17-year migratory insect plus creamy egg-based dessert,29,1600,False,Locustard,Arthur,True,JEOPORTMANTEAU!,2,18
+"Certain orchids, genus Cypripedium, are known by this feminine name, from their resemblance to delicate footwear",14,2000,False,lady\'s slippers,Steve,True,FLOWERS,2,18
+"In ""You're The Top"", this American wrote, ""But if this ditty is not so pretty, at least it'll tell you how great you are""",25,2000,False,Cole Porter,Steve,True,THE GREAT AMERICAN SONGBOOK,2,18
+"There are museums devoted to this writer in Nairobi, Kenya & in Rungstedlund, Denmark",19,"6,000",True,"Isak Dinesen (aka Karen Blixen, author of Out of Africa)",Tom,True,MUSEUMS,2,18
+"""I shouldn't mind being a bride... if I could be one without having a husband"", says Bathsheba in this Hardy novel",9,2000,False,Far From the Madding Crowd,Tom,False,LITERATURE,2,18
+"It's the last name of California Reps. Loretta & Linda, the first sisters in Congress",15,2000,False,Sanchez,Steve,False,THE WOMEN OF CONGRESS,2,18
+Kubla Khan's stately pleasure dome site plus a quilt,30,2000,False,Xanaduvet,Arthur,True,JEOPORTMANTEAU!,2,18

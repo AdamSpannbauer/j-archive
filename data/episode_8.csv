@@ -1,0 +1,61 @@
+answer,order_number,value,is_daily_double,correct_response,responder,is_correct,category,round_num,episode
+"The African species of this wading bird is scarlet, not pink; colonies may exceed 1 million pairs",21,200,False,the flamingo,David,True,AFRICAN WILDLIFE,1,8
+"Spinal Tap cut 35 songs from its act at a 1992 tribute to this Queen singer; he would've ""wanted it this way""",6,200,False,(Freddie) Mercury,David,True,THOSE ROCKIN' '90s,1,8
+"O'Neal,Phillippe,Seacrest",1,200,False,Ryan,Ken,True,FIRST NAME'S THE SAME,1,8
+"In golf, it's the short-cropped area around the hole",11,200,False,the putting green,David,True,"RATED ""P.G.""",1,8
+"So enraptured was Israel's King David with this woman, he deliberately sent her husband into battle where he died",16,200,False,Bathsheba,Ken,True,FEMMES FATALES,1,8
+"To a batter, a curveball appears to do most of its curving in this ¼ of its trip to the plate",30,200,False,its last quarter,Ken,True,"DANGER, CURVES AHEAD",1,8
+This quill-covered insectivore which resembles a porcupine rolls up into a ball when frightened,22,400,False,a hedgehog,David,True,AFRICAN WILDLIFE,1,8
+"In 1996 this band embarked on the ""Joker's Choice"" tour",7,400,False,The Steve Miller Band,Ken,True,THOSE ROCKIN' '90s,1,8
+"Vaughan,Polley,Bernhardt",2,400,False,Sarah,Ken,True,FIRST NAME'S THE SAME,1,8
+In 1775 the Continental Congress certified Ben Franklin as the first person in this job,12,400,False,Postmaster General,Ken,True,"RATED ""P.G.""",1,8
+"In Greek legend, Paris was so enamored with this married woman, he stole her away, thus causing a war",17,400,False,Helen of Troy,David,True,FEMMES FATALES,1,8
+"In grammar, they're a pair of curved lines used to indicate interjected explanatory material",26,400,False,parentheses,Ken,True,"DANGER, CURVES AHEAD",1,8
+"Tick birds accompany this largest horned mammal, feeding on parasites on the skin & warning of danger",23,600,False,a rhinoceros,Ken,True,AFRICAN WILDLIFE,1,8
+"Sally was the original name of the protagonist of her 1997 hit ""Sunny Came Home""",8,600,False,Shawn Colvin,Triple Stumper,False,THOSE ROCKIN' '90s,1,8
+"Ashbery,Davidson,Cheever",3,600,False,John,Ken,True,FIRST NAME'S THE SAME,1,8
+"Among the countries that surround this body of water are Iran, Iraq, Qatar & Kuwait",13,600,False,the Persian Gulf,Ken,True,"RATED ""P.G.""",1,8
+"A legendary beautiful woman living on a rock in this river, Lorelei was said to lure sailors to their deaths",18,600,False,the Rhine,Ken,True,FEMMES FATALES,1,8
+"The 1978 movie ""Deadman's Curve"" told the story of this musical duo, one of whom passed away in 2004",27,600,False,Jan & Dean,David,True,"DANGER, CURVES AHEAD",1,8
+"Although these tailless monkeys are famous for living on the Rock of Gibraltar, most in the wild live in North Africa",24,800,False,the Barbary apes,Triple Stumper,False,AFRICAN WILDLIFE,1,8
+In 1996 Celine Dion recorded this 1976 Eric Carmen hit in both English & Spanish versions,9,800,False,"""All By Myself""",Ken,True,THOSE ROCKIN' '90s,1,8
+"Wyeth,Young,Carnegie",4,800,False,Andrew,Ken,True,FIRST NAME'S THE SAME,1,8
+"An image of this Old West sheriff appears on the logo of the sheriff's dept. of Lincoln County, New Mexico",14,800,False,Pat Garrett,Ken,True,"RATED ""P.G.""",1,8
+Ludwig I's infatuation with the dancer Lola Montez helped ensure his loss of this German kingdom,19,800,False,Bavaria,Ken,True,FEMMES FATALES,1,8
+This Midwestern college town was named for its location on a curved part of the Saint Joseph River,28,"2,000",True,South Bend,David,False,"DANGER, CURVES AHEAD",1,8
+St. Croix Island off this country's Port Elizabeth has the largest colony of jackass penguins (they bray like donkeys),25,1000,False,South Africa,Ken,True,AFRICAN WILDLIFE,1,8
+"It completes the title of Rod Stewart's 1993 ""live"" MTV album ""Unplugged...""",10,1000,False,and Seated,Triple Stumper,False,THOSE ROCKIN' '90s,1,8
+"Brunell,Messier,Rothko",5,1000,False,Mark,Ken,True,FIRST NAME'S THE SAME,1,8
+"Sadly, a few years before he died in the Marquesas Islands, he attempted suicide by taking arsenic",15,1000,False,Paul Gauguin,Ken,True,"RATED ""P.G.""",1,8
+"Daughter of the man who became Pope Alexander VI, she became infamous for intrigues & poisonings",20,1000,False,Lucrezia Borgia,Ken,True,FEMMES FATALES,1,8
+"These caused a blurring of the image, so Newton replaced one of them with a curved mirror",29,1000,False,a telescope lens,Cara,True,"DANGER, CURVES AHEAD",1,8
+This bestselling Western author wrote about the Sackett family in more than a dozen novels,11,400,False,Louis L\'Amour,Ken,True,AMERICAN LITERATURE,2,8
+"2003:Actor Bob Harris, suffering from jet lag in Tokyo",6,400,False,Bill Murray,Ken,True,WHO PLAYED 'EM?,2,8
+"The controversial ""Da Vinci Code"" suggests that it isn't John seated beside Jesus in this painting but Mary Magdalene",16,400,False,The Last Supper,Ken,True,PAINTINGS,2,8
+"Haru-Urara, a racehorse from this country, is winning hearts & minds even though she's lost over 100 races",1,400,False,Japan,Ken,False,LONGSHOTS,2,8
+"Cancun is a popular spot for this ""seasonal"" trip, as in the 2003 film ""The Real Cancun""",26,400,False,spring break,Ken,True,YUCATAN LINES,2,8
+"A precious grayish-white metallic element, or a term to describe Harlow's blonde hair",21,400,False,platinum,Ken,True,"WORD ""PLA""Y",2,8
+"This ""Age of Innocence"" author made her debut in society in 1879",12,800,False,(Edith) Wharton,Cara,True,AMERICAN LITERATURE,2,8
+"2002:Mary Jane Watson, the girl of Peter Parker's dreams",7,800,False,Kirsten Dunst,Ken,True,WHO PLAYED 'EM?,2,8
+The Manet painting seen here shows this similarly named artist in his studio boat,17,800,False,(Claude) Monet,Ken,True,PAINTINGS,2,8
+"A British man recently sold all of his belongings, including the shirt off his back, for 1 shot at this casino game",2,800,False,roulette,David,True,LONGSHOTS,2,8
+"(Sarah of the Clue Crew crosses a pedestrian bridge over a Yucatan Peninsula, Mexico resort spot.)  A touristy part of the Yucatan is known as this precolumbian people's Riviera",30,800,False,the Maya,Ken,True,YUCATAN LINES,2,8
+"A ""medicine"" prescribed simply for the mental relief of a patient",22,800,False,a placebo,Ken,True,"WORD ""PLA""Y",2,8
+"""Sons"", the second book in a trilogy begun with this work, traces the destinies of the 3 sons of Wang Lung",13,"1,500",True,The Good Earth (by Pearl Buck),Cara,False,AMERICAN LITERATURE,2,8
+2004:Starsky & Hutch,8,1200,False,Ben Stiller & Owen Wilson,Ken,True,WHO PLAYED 'EM?,2,8
+"Before his geometric designs like ""Composition with Red, Yellow and Blue"", he was a landscape painter",18,1200,False,Mondrian,Ken,True,PAINTINGS,2,8
+"This presidential hopeful's running mate, Lloyd Bentsen, reportedly quipped in '88, ""The momentum is ours""",3,1200,False,Dukakis,Ken,True,LONGSHOTS,2,8
+Tikal National Park is in this country that shares the peninsula with Mexico & Belize,27,1200,False,Guatemala,Ken,True,YUCATAN LINES,2,8
+"A level of stability, or a relatively flat surface",23,1200,False,a plateau,Ken,True,"WORD ""PLA""Y",2,8
+This Sinclair Lewis doctor attempts to halt an epidemic on a West Indian island with his anti-bacterial serum,14,1600,False,Martin Arrowsmith,Ken,True,AMERICAN LITERATURE,2,8
+2003:Racetrack radio reporter Tick-Tock McGlaughlin,9,"8,400",True,William H. Macy,Ken,True,WHO PLAYED 'EM?,2,8
+"In Rembrandt's ""The Abduction of"" her, this mythological woman is carried off on a white bull",19,1600,False,Europa,Ken,True,PAINTINGS,2,8
+The miraculous 1980 U.S. Olympic hockey team beat this country in its final game,4,1600,False,Finland,David,True,LONGSHOTS,2,8
+"Just off the peninsula, this 189-sq.-mi. island attracting divers & tourists is part of Quintana Roo state",28,1600,False,Cozumel,Triple Stumper,False,YUCATAN LINES,2,8
+"An epidemic with a high rate of mortality, or a novel by Albert Camus",24,1600,False,a plague,Cara,True,"WORD ""PLA""Y",2,8
+"In the prologue of a 1952 novel, this author wrote, ""I am an invisible man""",15,2000,False,(Ralph) Ellison,Ken,True,AMERICAN LITERATURE,2,8
+"2004:Jesus Christ, during his last 12 hours",10,2000,False,Jim Caviezel,Ken,True,WHO PLAYED 'EM?,2,8
+"An image in Dali's ""Persistance of Memory"" was apparently based on one in this man's ""Garden of Earthly Delights""",20,2000,False,Hieronymus Bosch,Ken,True,PAINTINGS,2,8
+"""Project Longshot"" is a proposed plan to send an unmanned probe to this star system closest to Earth",5,2000,False,Alpha Centauri,Ken,True,LONGSHOTS,2,8
+"(Sofia of the Clue Crew reads from the center of a small town on the Yucatan Peninsula in Mexico.)  Not the glitzy Yucatan, sleepy Puerto Morelos is so sleepy it is sometimes called this, rhyming with Puerto",29,2000,False,Muerto,Ken,True,YUCATAN LINES,2,8
+A commonplace or trite remark,25,2000,False,a platitude,David,True,"WORD ""PLA""Y",2,8
