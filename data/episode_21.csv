@@ -1,0 +1,61 @@
+answer,order_number,value,is_daily_double,correct_response,responder,is_correct,category,round_num,episode
+Hunting & forest clearing (not a luxury automaker) have endangered this largest wild cat of the Americas,1,200,False,the jaguar,Ken,True,SCIENCE & NATURE,1,21
+A stadium with the world’s largest roof was built in 1972 for the Olympic games in this city,26,200,False,Munich,Jeff,True,SPORTS VENUES,1,21
+There's plenty of room here for your groceries,21,200,False,a pantry,Ken,True,2 PICTURES SAY 1 WORD,1,21
+"""CAD"" stands for these 3 computer keys (often used together)",6,200,False,Ctrl+Alt+Delete,Ken,True,CHAT ROOM LINGO,1,21
+The man he tied with 73 electoral votes in 1800,13,200,False,Jefferson,Jeff,True,AARON BURR,1,21
+"AKA ""America’s Dairyland"", it’s one of the leading U.S. states in milk production",8,200,False,Wisconsin,Jeff,True,GOT MILK?,1,21
+"Like an escargot, the abalone is an edible one of these gastropods",2,400,False,a snail,Beth,True,SCIENCE & NATURE,1,21
+"On March 14, 1997 Scott Hamilton became the first figure skater inducted into this NYC sports arena’s Walk of Fame",27,400,False,Madison Square Garden,Ken,True,SPORTS VENUES,1,21
+This is your John Hancock,22,400,False,your autograph,Ken,True,2 PICTURES SAY 1 WORD,1,21
+"Don’t wait around if you read ""DHYB""; it means “don’t hold” this",7,400,False,your breath,Jeff,True,CHAT ROOM LINGO,1,21
+The New Jersey college he graduated from at age 16,14,400,False,Princeton,Ken,True,AARON BURR,1,21
+1 of this unit of milk weighs about 8 pounds,9,400,False,a gallon,Jeff,True,GOT MILK?,1,21
+It's the branch of physics that deals with the nature & properties of light,3,600,False,optics,Jeff,True,SCIENCE & NATURE,1,21
+"Built in 1912, this American League park is Major League Baseball's oldest & smallest in capacity",28,600,False,Fenway,Ken,True,SPORTS VENUES,1,21
+This is right,23,600,False,starboard,Ken,True,2 PICTURES SAY 1 WORD,1,21
+"""ESO"" is the insulting ""equipment smarter than"" this person",15,600,False,the operator,Ken,True,CHAT ROOM LINGO,1,21
+"The man he went to New Jersey to meet on July 11, 1804",17,600,False,Hamilton,Ken,True,AARON BURR,1,21
+A Frenchman created this process that kills microorganisms in milk by heating it,10,600,False,pasteurization,Jeff,True,GOT MILK?,1,21
+Hermann Muller won a 1946 Nobel Prize for proving that the use of these can cause mutations,4,"1,000",True,X rays,Jeff,False,SCIENCE & NATURE,1,21
+This Big 12 school plays its home basketball games at the Bob Devaney Sports Center,29,800,False,the University of Nebraska,Triple Stumper,False,SPORTS VENUES,1,21
+This is your history,24,800,False,your background,Ken,True,2 PICTURES SAY 1 WORD,1,21
+"""CD-ROM"" also stands for ""consumer device rendered"" this ""in months""",16,800,False,obsolete,Jeff,True,CHAT ROOM LINGO,1,21
+The man he introduced the widow Dolley Todd to in 1794,18,800,False,James Madison,Ken,True,AARON BURR,1,21
+This type of sugar that's less sweet than sucrose is found only in milk,11,800,False,lactose,Ken,True,GOT MILK?,1,21
+The flowers on this type of myrtle tree resemble the crinkly paper of the same name,5,1000,False,crepe,Jeff,True,SCIENCE & NATURE,1,21
+(I'm Moe Williams from the NFL.)  The Minnesota Vikings play their home games in a domed stadium named for this former U.S. vice president,30,1000,False,Humphrey,Ken,True,SPORTS VENUES,1,21
+Someone who's very middle-of-the-road,25,1000,False,centrist,Jeff,False,2 PICTURES SAY 1 WORD,1,21
+"""AIAMU"" means ""and I'm a"" this, expressing astonishment",20,1000,False,monkey\'s uncle,Triple Stumper,False,CHAT ROOM LINGO,1,21
+The Chief Justice who presided over his treason trial,19,1000,False,John Marshall,Ken,True,AARON BURR,1,21
+In 1856 Gail Borden received a patent for his process to do this to milk,12,1000,False,condense it,Beth,True,GOT MILK?,1,21
+"Bush-Cheney called Edwards Kerry's second choice, meaning this Republican was his first",11,400,False,John McCain,Beth,True,THE 2004 PRESIDENTIAL RACE,2,21
+In the 19th century a new breed of terrier was named for this clergyman,3,400,False,Jack Russell,Ken,True,JACKS OR BETTER,2,21
+"(Jimmy of the Clue Crew strolls through an unfinished airplane cabin at the Boeing Everett Factory in Seattle, WA.)  I'm walking through this main body of the airplane, which gets its name from the Old French for ""spindle""",14,400,False,the fuselage,Jeff,True,AVIATION,2,21
+"One of the principal exports of Seychelles is copra, the dried white flesh of this fruit",20,400,False,coconut,Jeff,True,SHE SELLS SEYCHELLES,2,21
+"A tree that's a national symbol of Slovenia, or a Texan U.S. president's first name",26,400,False,linden (or Lyndon),Jeff,True,HOMOPHONIC NAMES,2,21
+"On October 26, 1881 this took place at Tombstone's OK Corral",1,400,False,gunfight,Ken,True,"ENDS IN ""GHT""",2,21
+George W. Bush won 91% of the vote in Massachusetts (unfortunately for him it was in this contest),12,800,False,the Republican primary,Triple Stumper,False,THE 2004 PRESIDENTIAL RACE,2,21
+"In ""Nightmares & Dreamscapes"" this author wrote, ""I believe there is an unseen world all around us""",7,800,False,Stephen King,Ken,False,JACKS OR BETTER,2,21
+"In chemistry, it maintains a mixture resistant to change; when flying it controls the pitch of an aircraft",15,800,False,the stabilizer,Ken,False,AVIATION,2,21
+From about 1500 to 1750 the Seychelles served mainly as a hiding place for these people,21,800,False,pirates,Jeff,True,SHE SELLS SEYCHELLES,2,21
+"Loudly, raucously sound out George Orwell's original last name",27,800,False,blare (or Blair),Ken,True,HOMOPHONIC NAMES,2,21
+"William Congreve wrote, ""Women are like tricks by"" this ""of hand, which, to admire, we should not understand""",2,800,False,sleight,Jeff,True,"ENDS IN ""GHT""",2,21
+"Most of the over 50,000 signatures he submitted to try to get on the Michigan ballot were collected by the GOP",13,1200,False,(Ralph) Nader,Jeff,True,THE 2004 PRESIDENTIAL RACE,2,21
+In 1999 this rapper-turned-actress turned talk show host,8,1200,False,Queen Latifah,Ken,True,JACKS OR BETTER,2,21
+"This 3-digit number, popular in Vegas slot machines, is Boeing's & the world's largest family of twinjet",16,1200,False,777,Ken,True,AVIATION,2,21
+"The Seychelles uses this unit of currency, which is also used in Pakistan, Nepal & Sri Lanka",22,1200,False,the rupee,Ken,True,SHE SELLS SEYCHELLES,2,21
+"A critiquer of pure reason who died in 1804, or a response indicating you're unable to grasp his philosophy",30,1200,False,Kant (or can\'t),Jeff,True,HOMOPHONIC NAMES,2,21
+"As a noun, it's a zero; as a pronoun, it's nothing",4,1200,False,naught,Ken,True,"ENDS IN ""GHT""",2,21
+"In a July 23 speech to this league, the President asked if the Democrats take black voters for granted",17,"1,700",True,the National Urban League,Ken,False,THE 2004 PRESIDENTIAL RACE,2,21
+Columbia chief Harry Cohn advised this actor to change his last name to avoid negative review puns,9,1600,False,Jack Lemmon,Triple Stumper,False,JACKS OR BETTER,2,21
+"Greater than supersonic, it's the term for a speed 5 times faster than the speed of sound",19,1600,False,hypersonic (Mach 5 accepted),Jeff,True,AVIATION,2,21
+Seychelles is an example of this grouping of a large number of islands on a vast sheet of sea,23,1600,False,an archipelago,Jeff,True,SHE SELLS SEYCHELLES,2,21
+"In ""A hymn to God the Father"", this metaphysical poet makes punning use of this synonym for ""finished""",29,1600,False,Donne (or done),Ken,True,HOMOPHONIC NAMES,2,21
+Samuel F.B. Morse could have told you that it's a past tense & a past participle of work,5,"5,400",True,wrought,Ken,True,"ENDS IN ""GHT""",2,21
+This Florida senator was the first Democratic candidate to drop out of the race,18,2000,False,(Bob) Graham,Ken,True,THE 2004 PRESIDENTIAL RACE,2,21
+"An ad in a 1973 paper brought this lead guitarist together with Gene Simmons, Paul Stanley & Peter Criss",10,2000,False,Ace Frehley,Triple Stumper,False,JACKS OR BETTER,2,21
+"""Air""y name of the curved top & flat bottom shape that airplane (& bird) wings have to give them lift",25,2000,False,an airfoil,Jeff,True,AVIATION,2,21
+"This Portuguese navigator, the first European to reach India by sea, discovered the Seychelles in 1502",24,2000,False,Vasco da Gama,Ken,True,SHE SELLS SEYCHELLES,2,21
+"Sadly for him, the 17th century gunpowder plotter wasn't quite as sly as the animal",28,2000,False,Fawkes (or fox),Jeff,True,HOMOPHONIC NAMES,2,21
+"Abbreviated dwt., it's equal to 24 grains, or 1/20 of a troy ounce",6,2000,False,a pennyweight,Beth,False,"ENDS IN ""GHT""",2,21
