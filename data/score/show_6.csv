@@ -1,0 +1,13 @@
+player,value,additional_info
+Ken,"$6,000",
+Dana,$0,
+Bruce,$0,
+Ken,"$16,600",
+Dana,$0,
+Bruce,"$1,800",
+Ken,"$38,800",(lock game)
+Dana,"$2,000",
+Bruce,"-$4,800",
+Ken,"$45,000","44-day champion: $1,477,461"
+Dana,"$3,999","2nd place: $2,000"
+Bruce,"-$4,800","3rd place: $1,000"

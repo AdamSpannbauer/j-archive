@@ -1,0 +1,13 @@
+player,value,additional_info
+Arthur,"$2,000",
+Sam,$500,
+Keith,"$1,400",
+Arthur,"$5,400",
+Sam,"$2,500",
+Keith,"$1,200",
+Arthur,"$16,200",(lock game)
+Sam,"$1,700",
+Keith,"$7,200",
+Arthur,"$16,200",Automatic semifinalist
+Sam,$0,"3rd place: $5,000"
+Keith,"$3,500","2nd place: $5,000"

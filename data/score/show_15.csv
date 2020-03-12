@@ -1,0 +1,13 @@
+player,value,additional_info
+Sean,"$3,600",
+Anne,"$1,000",
+Jim,$400,
+Sean,"$4,000",
+Anne,"$2,600",
+Jim,$0,
+Sean,"$5,200",
+Anne,"$9,000",
+Jim,"$2,400",
+Sean,"$2,600","2nd place: $5,000"
+Anne,"$7,599",Automatic semifinalist
+Jim,"$2,400","3rd place: $5,000"

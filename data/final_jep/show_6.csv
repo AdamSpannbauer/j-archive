@@ -1,0 +1,3 @@
+responder,response,wager,is_correct,category,correct_response
+Dana,What is Ecuador?,"$1,999",True,COUNTRY NAMES,Ecuador
+Ken,¿What is Ecuador?,"$6,200",True,COUNTRY NAMES,Ecuador

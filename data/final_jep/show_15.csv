@@ -1,0 +1,4 @@
+responder,response,wager,is_correct,category,correct_response
+Jim,Who was Herriot?,$0,False,CHILDREN'S AUTHORS,Hugh Lofting (author of the Doctor Dolittle books)
+Sean,Who is A. A. Milne?,"$2,600",False,CHILDREN'S AUTHORS,Hugh Lofting (author of the Doctor Dolittle books)
+Anne,Who is E. B. White?,"$1,401",False,CHILDREN'S AUTHORS,Hugh Lofting (author of the Doctor Dolittle books)

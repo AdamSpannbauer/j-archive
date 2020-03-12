@@ -1,0 +1,4 @@
+responder,response,wager,is_correct,category,correct_response
+Cara,Who was Elizabeth I,"$1,700",False,BRITISH MONARCHS,George III
+David,Who was George III?,$600,True,BRITISH MONARCHS,George III
+Ken,Who was George IV,"$6,200",False,BRITISH MONARCHS,George III

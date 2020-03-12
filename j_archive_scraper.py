@@ -1,5 +1,3 @@
-# TODO: parse final jeopardy info
-
 import numpy as np
 import pandas as pd
 from bs4 import BeautifulSoup
@@ -97,10 +95,59 @@ def parse_rounds(page_soup):
     return pd.concat(clue_dfs)
 
 
-# TODO: parse final jeopardy info
-def parse_fj_clue(fj_clue_html):
-    # fj_clue = board.find('td', {'id': 'clue_FJ'})
-    pass
+def parse_fj(page_soup):
+    fj_board = page_soup.select_one('.final_round')
+    category = fj_board.select_one('.category_name').text
+
+    response_html = fj_board.find('div', {'onmouseover': True})['onmouseover']
+    response_soup = BeautifulSoup(response_html, HTML_PARSER)
+    correct_responders = response_soup.select('.right')
+    correct_responders = [cr.text for cr in correct_responders]
+
+    correct_response = response_soup.select('em')[-1].text
+
+    rows = []
+    row = []
+    response_table = response_soup.select('tr')
+    for row_i, tr in enumerate(response_table):
+        td = tr.find_all('td')
+        contents = [tr.text for tr in td]
+        if row_i % 2 == 0:
+            row = contents
+        else:
+            row += contents
+            rows.append(row)
+
+    df = pd.DataFrame(rows, columns=['responder', 'response', 'wager'])
+    df['is_correct'] = df['responder'].isin(correct_responders)
+    df['category'] = category
+    df['correct_response'] = correct_response
+
+    return df
+
+
+def parse_score_tables(soup):
+    first_ad_break_scores = str(soup.select_one('#jeopardy_round > table:nth-child(4)'))
+    jeopardy_scores = str(soup.select_one('#jeopardy_round > table:nth-child(6)'))
+    d_jeopardy_scores = str(soup.select_one('#double_jeopardy_round > table:nth-child(4)'))
+    f_jeopardy_scores = str(soup.select_one('#final_jeopardy_round > table:nth-child(4)'))
+
+    score_strs = [first_ad_break_scores, jeopardy_scores, d_jeopardy_scores, f_jeopardy_scores]
+    score_dfs = []
+    for ss in score_strs:
+        df = pd.read_html(ss)[0]
+        df = df.T
+
+        names = ['player', 'value']
+        if df.shape[1] > 2:
+            names += ['additional_info']
+
+        df.columns = names
+        score_dfs.append(df)
+
+    scores_df = pd.concat(score_dfs, sort=False)
+
+    return scores_df
 
 
 def scrape_episode(scraper, episode_num):
@@ -111,7 +158,11 @@ def scrape_episode(scraper, episode_num):
     episode_df = parse_rounds(soup)
     episode_df['episode'] = episode_num
 
-    return episode_df
+    final_jep_df = parse_fj(soup)
+
+    scores_df = parse_score_tables(soup)
+
+    return episode_df, final_jep_df, scores_df
 
 
 if __name__ == '__main__':
@@ -123,6 +174,12 @@ if __name__ == '__main__':
     j_scraper = Scraper(robots_txt_url=ROBOTS_TXT_URL)
     for i in range(1, 21):
         print(f'Scraping/parsing episode #{i}')
-        ep_df = scrape_episode(j_scraper, episode_num=i)
-        episode_csv = os.path.join(CSV_OUTPUT_DIR, f'episode_{i}.csv')
+        ep_df, fj_df, score_df = scrape_episode(j_scraper, episode_num=i)
+
+        episode_csv = os.path.join(CSV_OUTPUT_DIR, 'episode', f'show_{i}.csv')
+        fj_csv = os.path.join(CSV_OUTPUT_DIR, 'final_jep', f'show_{i}.csv')
+        score_csv = os.path.join(CSV_OUTPUT_DIR, 'score', f'show_{i}.csv')
+
         ep_df.to_csv(episode_csv, index=False)
+        fj_df.to_csv(fj_csv, index=False)
+        score_df.to_csv(score_csv, index=False)

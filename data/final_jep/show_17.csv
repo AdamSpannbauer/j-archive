@@ -1,0 +1,4 @@
+responder,response,wager,is_correct,category,correct_response
+Tom,Who is Ferlinghetti,"$2,901",True,POETS,Lawrence Ferlinghetti (owner of City Lights bookstore in San Francisco)
+Anne,Who was Ferlinghetti?,$0,True,POETS,Lawrence Ferlinghetti (owner of City Lights bookstore in San Francisco)
+Chris,Who is Ginsberg?,"$13,201",False,POETS,Lawrence Ferlinghetti (owner of City Lights bookstore in San Francisco)

@@ -1,0 +1,13 @@
+player,value,additional_info
+Ken,"$1,800",
+Bob,"$1,000",
+Rich,-$800,
+Ken,"$5,800",
+Bob,"$2,200",
+Rich,"$6,000",
+Ken,"$28,400",(lock game)
+Bob,"$9,600",
+Rich,"$10,800",
+Ken,"$21,800","40-day champion: $1,353,461"
+Bob,$0,"3rd place: $1,000"
+Rich,"$19,201","2nd place: $2,000"

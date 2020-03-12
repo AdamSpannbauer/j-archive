@@ -1,0 +1,4 @@
+responder,response,wager,is_correct,category,correct_response
+Kollin,Who is ?,"$2,599",False,PATRON SAINTS,Sir Thomas More
+Bill,Who is St. Thomas More?,$0,True,PATRON SAINTS,Sir Thomas More
+Ken,Who is Thomas More?,"$1,400",True,PATRON SAINTS,Sir Thomas More

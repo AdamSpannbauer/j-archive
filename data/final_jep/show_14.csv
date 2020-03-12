@@ -1,0 +1,4 @@
+responder,response,wager,is_correct,category,correct_response
+Chris,What is the Lusitania?,"$2,000",True,20th CENTURY SHIPS,the Lusitania
+Russ,What is Lusitania?,"$6,000",True,20th CENTURY SHIPS,the Lusitania
+Tom,What was the Lusitania?,$100,True,20th CENTURY SHIPS,the Lusitania

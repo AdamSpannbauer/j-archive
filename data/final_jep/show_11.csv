@@ -1,0 +1,4 @@
+responder,response,wager,is_correct,category,correct_response
+Sam,What is Paris?,"$1,700",False,ART SUBJECTS,Calais (from Rodin\'s The Burghers of Calais)
+Keith,What is Berlin?,"$3,700",False,ART SUBJECTS,Calais (from Rodin\'s The Burghers of Calais)
+Arthur,What is Bruges?,$0,False,ART SUBJECTS,Calais (from Rodin\'s The Burghers of Calais)

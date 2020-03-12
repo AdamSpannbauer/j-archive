@@ -1,0 +1,4 @@
+responder,response,wager,is_correct,category,correct_response
+Elaine,Who is F. Scott Fitzgerald,"$5,500",False,AMERICAN AUTHORS,Ernest Hemingway
+John,Who is Ernest Hemmingway?,"$4,401",True,AMERICAN AUTHORS,Ernest Hemingway
+Ken,Who is Hemingway?,"$6,400",True,AMERICAN AUTHORS,Ernest Hemingway

@@ -1,0 +1,13 @@
+player,value,additional_info
+Tom,$0,
+Anne,"$2,800",
+Chris,"$2,400",
+Tom,"$3,400",
+Anne,"$4,100",
+Chris,"$5,200",
+Tom,"$11,800",
+Anne,"$14,700",
+Chris,"$16,200",
+Tom,"$14,701",Finalist
+Anne,"$14,700","2nd place: $10,000"
+Chris,"$2,999","3rd place: $10,000"

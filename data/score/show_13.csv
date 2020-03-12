@@ -1,0 +1,13 @@
+player,value,additional_info
+John,"$2,800",
+Renzo,"$2,000",
+Vinita,"$1,600",
+John,"$2,400",
+Renzo,"$3,200",
+Vinita,"$3,800",
+John,"$5,600",
+Renzo,"$11,000",
+Vinita,"$10,600",
+John,$599,"3rd place: $5,000"
+Renzo,"$2,000","2nd place: $5,000"
+Vinita,"$10,200",Automatic semifinalist

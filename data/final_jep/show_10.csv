@@ -1,0 +1,4 @@
+responder,response,wager,is_correct,category,correct_response
+Marilyn,What is Niagara?,$800,True,MARILYN MONROE MOVIES,Niagara
+Greg,What is [Ghostbusters crossed out] Niagara,$599,True,MARILYN MONROE MOVIES,Niagara
+Ken,What is Niagara?,"$12,000",True,MARILYN MONROE MOVIES,Niagara

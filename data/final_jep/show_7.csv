@@ -1,0 +1,4 @@
+responder,response,wager,is_correct,category,correct_response
+Robert,Who is Rowe?,"$1,399",True,ALIASES,(Jane) Roe
+Kate,Who is Roe?,$100,True,ALIASES,(Jane) Roe
+Ken,Who is Roe?,"$9,000",True,ALIASES,(Jane) Roe

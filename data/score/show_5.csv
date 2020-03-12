@@ -1,0 +1,13 @@
+player,value,additional_info
+Ken,"$5,800",
+Kollin,$0,
+Bill,"$3,200",
+Ken,"$13,600",
+Kollin,$600,
+Bill,"$6,000",
+Ken,"$28,600",(lock game)
+Kollin,"$2,600",
+Bill,"$6,000",
+Ken,"$30,000","43-day champion: $1,432,461"
+Kollin,$1,"3rd place: $1,000"
+Bill,"$6,000","2nd place: $2,000"

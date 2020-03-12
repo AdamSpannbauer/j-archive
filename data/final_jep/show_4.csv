@@ -1,0 +1,4 @@
+responder,response,wager,is_correct,category,correct_response
+Amy,Who is Kennedy and Taft?,$0,False,PRESIDENTS,"(2 of) Kennedy, Garfield, and Harding"
+Todd,Who are JFK and J. Q. Adams?,"$1,001",False,PRESIDENTS,"(2 of) Kennedy, Garfield, and Harding"
+Ken,Who are JFK and Cleveland,"$6,600",False,PRESIDENTS,"(2 of) Kennedy, Garfield, and Harding"

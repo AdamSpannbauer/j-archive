@@ -1,0 +1,13 @@
+player,value,additional_info
+Ken,"$3,800",
+John,"-$1,000",
+Elaine,-$400,
+Ken,"$9,000",
+John,"$1,600",
+Elaine,"$1,000",
+Ken,"$23,600",(lock game)
+John,"$6,200",
+Elaine,"$5,800",
+Ken,"$30,000","47-day champion: $1,585,061"
+John,"$10,601","2nd place: $2,000"
+Elaine,$300,"3rd place: $1,000"

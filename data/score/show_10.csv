@@ -1,0 +1,13 @@
+player,value,additional_info
+Ken,"$5,200",
+Marilyn,"-$1,000",
+Greg,$200,
+Ken,"$10,200",
+Marilyn,"-$1,000",
+Greg,-$200,
+Ken,"$38,000",(lock game)
+Marilyn,"$1,000",
+Greg,"$2,600",
+Ken,"$50,000","48-day champion: $1,635,061"
+Marilyn,"$1,800","3rd place: $1,000"
+Greg,"$3,199","2nd place: $2,000"

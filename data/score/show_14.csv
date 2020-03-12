@@ -1,0 +1,13 @@
+player,value,additional_info
+Chris,"$2,000",
+Tom,"$5,200",
+Russ,"$2,000",
+Chris,"$2,000",
+Tom,"$7,800",
+Russ,"$2,000",
+Chris,"$2,000",
+Tom,"$20,000",(lock game)
+Russ,"$6,400",
+Chris,"$4,000","3rd place: $5,000"
+Tom,"$20,100",Automatic semifinalist
+Russ,"$12,400","2nd place: $5,000"

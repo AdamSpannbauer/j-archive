@@ -1,0 +1,4 @@
+responder,response,wager,is_correct,category,correct_response
+Steve,Who is Edwin Booth?,$0,False,19th CENTURY NAMES,John Wilkes Booth
+Tom,Who was [a zigzag that resembles WVthm],"$15,200",False,19th CENTURY NAMES,John Wilkes Booth
+Arthur,Who is John Wilkes Booth?,"$15,000",True,19th CENTURY NAMES,John Wilkes Booth

@@ -1,0 +1,4 @@
+responder,response,wager,is_correct,category,correct_response
+Arthur,What is the ADA?,"$7,200",False,ACRONYMS,the USA PATRIOT Act
+Russ,What is TSA?,"$3,600",False,ACRONYMS,the USA PATRIOT Act
+Tom,What is USA PATRIOT Act?,"$3,000",True,ACRONYMS,the USA PATRIOT Act

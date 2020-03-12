@@ -1,0 +1,4 @@
+responder,response,wager,is_correct,category,correct_response
+Bob,Who is Stephen Crane?,"$9,600",False,WAR MOVIES,Joseph Conrad
+Rich,Who is J. Conrad?,"$8,401",True,WAR MOVIES,Joseph Conrad
+Ken,Who is Heller?,"$6,600",False,WAR MOVIES,Joseph Conrad

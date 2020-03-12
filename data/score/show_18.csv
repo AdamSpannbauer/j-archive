@@ -1,0 +1,13 @@
+player,value,additional_info
+Tom,-$200,
+Arthur,"$3,200",
+Steve,"$1,800",
+Tom,"$4,400",
+Arthur,"$4,800",
+Steve,"$3,200",
+Tom,"$15,200",
+Arthur,"$16,400",
+Steve,"$7,600",
+Tom,$0,"3rd place: $10,000"
+Arthur,"$31,400",Finalist
+Steve,"$7,600","2nd place: $10,000"

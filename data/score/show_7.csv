@@ -1,0 +1,13 @@
+player,value,additional_info
+Ken,"$5,000",
+Kate,"$1,000",
+Robert,$0,
+Ken,"$11,200",
+Kate,"$1,800",
+Robert,$200,
+Ken,"$31,000",(lock game)
+Kate,"$3,400",
+Robert,"$1,400",
+Ken,"$40,000","45-day champion: $1,517,461"
+Kate,"$3,500","2nd place: $2,000"
+Robert,"$2,799","3rd place: $1,000"
